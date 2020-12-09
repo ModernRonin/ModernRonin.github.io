@@ -6,7 +6,7 @@
   <link href="https://modernronin.github.io/atom.xml" rel="self"/>
   
   <link href="https://modernronin.github.io/"/>
-  <updated>2020-12-09T20:08:42.155Z</updated>
+  <updated>2020-12-09T20:57:09.505Z</updated>
   <id>https://modernronin.github.io/</id>
   
   <author>
@@ -17,11 +17,91 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Anonymous types and FluentAssertions</title>
+    <link href="https://modernronin.github.io/2020/08/27/Anonymous-types-and-FluentAssertions/"/>
+    <id>https://modernronin.github.io/2020/08/27/Anonymous-types-and-FluentAssertions/</id>
+    <published>2020-08-27T14:18:55.000Z</published>
+    <updated>2020-12-09T20:57:09.505Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Say you are testing the return value of a method returning an interface:&lt;/p&gt;
+&lt;figure class=&quot;highlight csharp&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    
+    <category term="FluentAssertions" scheme="https://modernronin.github.io/tags/FluentAssertions/"/>
+    
+    <category term="TDD" scheme="https://modernronin.github.io/tags/TDD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Multiple Visual Studio environments on one machine</title>
+    <link href="https://modernronin.github.io/2020/08/12/Multiple-Visual-Studio-environments-on-one-machine/"/>
+    <id>https://modernronin.github.io/2020/08/12/Multiple-Visual-Studio-environments-on-one-machine/</id>
+    <published>2020-08-12T16:19:30.000Z</published>
+    <updated>2020-12-09T20:57:09.505Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;I just found out there is a way to have multiple VS environments (without actually having side-by-side installs).&lt;/p&gt;
+&lt;p&gt;From a prompt,</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Visual Studio" scheme="https://modernronin.github.io/tags/Visual-Studio/"/>
+    
+    <category term="ReSharper" scheme="https://modernronin.github.io/tags/ReSharper/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Azure Functions and the CosmosDB change feed</title>
+    <link href="https://modernronin.github.io/2020/08/10/Azure-Functions-and-the-CosmosDB-change-feed/"/>
+    <id>https://modernronin.github.io/2020/08/10/Azure-Functions-and-the-CosmosDB-change-feed/</id>
+    <published>2020-08-10T14:30:09.000Z</published>
+    <updated>2020-12-09T20:57:09.505Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;If you ever work with an Azure Function that is connected to/triggered by a CosmosDb change feed:&lt;/p&gt;
+&lt;p&gt;Whenever you want to reset the</summary>
+        
+      
+    
+    
+    
+    
+    <category term="azure" scheme="https://modernronin.github.io/tags/azure/"/>
+    
+    <category term="azure functions" scheme="https://modernronin.github.io/tags/azure-functions/"/>
+    
+    <category term="cosmosdb" scheme="https://modernronin.github.io/tags/cosmosdb/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hi there</title>
-    <link href="https://modernronin.github.io/2020/12/09/Hi-there/"/>
-    <id>https://modernronin.github.io/2020/12/09/Hi-there/</id>
-    <published>2020-12-09T19:16:32.000Z</published>
-    <updated>2020-12-09T20:08:42.155Z</updated>
+    <link href="https://modernronin.github.io/2020/08/01/Hi-there/"/>
+    <id>https://modernronin.github.io/2020/08/01/Hi-there/</id>
+    <published>2020-08-01T19:16:32.000Z</published>
+    <updated>2020-12-09T20:57:09.505Z</updated>
     
     
       
