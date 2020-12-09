@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Random thoughts about software development</title>
+    <link>https://modernronin.github.io/</link>
+    
+    <image>
+      <url>https://modernronin.github.io/icon.png</url>
+      <title>Random thoughts about software development</title>
+      <link>https://modernronin.github.io/</link>
+    </image>
+    
+    <atom:link href="https://modernronin.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Wed, 09 Dec 2020 20:02:26 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Hi there</title>
+      <link>https://modernronin.github.io/2020/12/09/Hi-there/</link>
+      <guid>https://modernronin.github.io/2020/12/09/Hi-there/</guid>
+      <pubDate>Wed, 09 Dec 2020 19:16:32 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;For a while, I’ve been posting thoughts, trick, tools etc. I found relevant or interesting to a Telegram group of software developers.</description>
+          
+        
+      
+      
+      
+      
+      
+      
+      <comments>https://modernronin.github.io/2020/12/09/Hi-there/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>

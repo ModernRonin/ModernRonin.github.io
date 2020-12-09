@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Random thoughts about software development</title>
+  <icon>https://modernronin.github.io/icon.png</icon>
+  
+  <link href="https://modernronin.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://modernronin.github.io/"/>
+  <updated>2020-12-09T20:02:26.375Z</updated>
+  <id>https://modernronin.github.io/</id>
+  
+  <author>
+    <name>Modern Ronin</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hi there</title>
+    <link href="https://modernronin.github.io/2020/12/09/Hi-there/"/>
+    <id>https://modernronin.github.io/2020/12/09/Hi-there/</id>
+    <published>2020-12-09T19:16:32.000Z</published>
+    <updated>2020-12-09T20:02:26.375Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;For a while, I’ve been posting thoughts, trick, tools etc. I found relevant or interesting to a Telegram group of software developers.</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
