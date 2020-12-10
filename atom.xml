@@ -6,7 +6,7 @@
   <link href="https://modernronin.github.io/atom.xml" rel="self"/>
   
   <link href="https://modernronin.github.io/"/>
-  <updated>2020-12-10T15:30:32.786Z</updated>
+  <updated>2020-12-10T20:00:44.259Z</updated>
   <id>https://modernronin.github.io/</id>
   
   <author>
@@ -17,11 +17,146 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Testing with Flurl</title>
+    <link href="https://modernronin.github.io/2020/10/13/Testing-with-Flurl/"/>
+    <id>https://modernronin.github.io/2020/10/13/Testing-with-Flurl/</id>
+    <published>2020-10-13T23:09:04.000Z</published>
+    <updated>2020-12-10T20:00:44.259Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;When developing against REST APIs without dedicated client libraries, I very much like to use &lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="TDD" scheme="https://modernronin.github.io/tags/TDD/"/>
+    
+    <category term="REST APIs" scheme="https://modernronin.github.io/tags/REST-APIs/"/>
+    
+    <category term="Flurl" scheme="https://modernronin.github.io/tags/Flurl/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>FluentAssertions: How to assert collection&#39;s elements with equivalence AND order</title>
+    <link href="https://modernronin.github.io/2020/10/12/FluentAssertions-How-to-assert-collection-s-elements-with-equivalence-AND-order/"/>
+    <id>https://modernronin.github.io/2020/10/12/FluentAssertions-How-to-assert-collection-s-elements-with-equivalence-AND-order/</id>
+    <published>2020-10-12T22:30:08.000Z</published>
+    <updated>2020-12-10T20:00:44.259Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;I’ve been using the marvellous &lt;a href=&quot;https://fluentassertions.com/&quot;&gt;FluentAssertions&lt;/a&gt; library for many years, yet I still discover</summary>
+        
+      
+    
+    
+    
+    
+    <category term="FluentAssertions" scheme="https://modernronin.github.io/tags/FluentAssertions/"/>
+    
+    <category term="TDD" scheme="https://modernronin.github.io/tags/TDD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Quick Circular Buffer</title>
+    <link href="https://modernronin.github.io/2020/10/08/Quick-Circular-Enumerator/"/>
+    <id>https://modernronin.github.io/2020/10/08/Quick-Circular-Enumerator/</id>
+    <published>2020-10-08T22:20:08.000Z</published>
+    <updated>2020-12-10T20:00:44.259Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Recently, I found myself for the first time in my 25+ year career needing infinite iteration over a finite set of elements. &lt;/p&gt;
+&lt;p&gt;The</summary>
+        
+      
+    
+    
+    
+    
+    <category term="data structures" scheme="https://modernronin.github.io/tags/data-structures/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HttpStatusCode in netstandard 2.0</title>
+    <link href="https://modernronin.github.io/2020/09/28/HttpStatusCode-in-netstandard-2-0/"/>
+    <id>https://modernronin.github.io/2020/09/28/HttpStatusCode-in-netstandard-2-0/</id>
+    <published>2020-09-28T22:04:01.000Z</published>
+    <updated>2020-12-10T20:00:44.259Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Today I stumbled across a strange omission in netstandard2.0: the &lt;code&gt;HttpStatusCode&lt;/code&gt; enum is incomplete (as opposed to, say,</summary>
+        
+      
+    
+    
+    
+    
+    <category term="netstandard2.0" scheme="https://modernronin.github.io/tags/netstandard2-0/"/>
+    
+    <category term="BCL" scheme="https://modernronin.github.io/tags/BCL/"/>
+    
+    <category term="gotchas" scheme="https://modernronin.github.io/tags/gotchas/"/>
+    
+    <category term="C# language" scheme="https://modernronin.github.io/tags/C-language/"/>
+    
+    <category term="F# language" scheme="https://modernronin.github.io/tags/F-language/"/>
+    
+    <category term="language design" scheme="https://modernronin.github.io/tags/language-design/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Exclude code regions from ReSharpers&#39; format</title>
+    <link href="https://modernronin.github.io/2020/09/17/Exclude-code-regions-from-ReSharpers-format/"/>
+    <id>https://modernronin.github.io/2020/09/17/Exclude-code-regions-from-ReSharpers-format/</id>
+    <published>2020-09-17T22:55:34.000Z</published>
+    <updated>2020-12-10T20:00:44.259Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;A dev-friend was unhappy about not being able to exclude certain code passages from R#’s cleanup/formatting feature.&lt;/p&gt;
+&lt;p&gt;Actually,</summary>
+        
+      
+    
+    
+    
+    
+    <category term="ReSharper" scheme="https://modernronin.github.io/tags/ReSharper/"/>
+    
+    <category term="code format" scheme="https://modernronin.github.io/tags/code-format/"/>
+    
+  </entry>
+  
+  <entry>
     <title>renameproject v1.0.1</title>
     <link href="https://modernronin.github.io/2020/09/15/renameproject-v1-0-1/"/>
     <id>https://modernronin.github.io/2020/09/15/renameproject-v1-0-1/</id>
     <published>2020-09-15T22:27:09.000Z</published>
-    <updated>2020-12-10T15:30:32.786Z</updated>
+    <updated>2020-12-10T20:00:44.259Z</updated>
     
     
       
@@ -48,7 +183,7 @@
     <link href="https://modernronin.github.io/2020/09/06/Good-advise-for-younger-devs/"/>
     <id>https://modernronin.github.io/2020/09/06/Good-advise-for-younger-devs/</id>
     <published>2020-09-06T22:19:49.000Z</published>
-    <updated>2020-12-10T15:30:32.786Z</updated>
+    <updated>2020-12-10T20:00:44.259Z</updated>
     
     
       
@@ -73,7 +208,7 @@
     <link href="https://modernronin.github.io/2020/09/05/Interesting-article-about-Microservices/"/>
     <id>https://modernronin.github.io/2020/09/05/Interesting-article-about-Microservices/</id>
     <published>2020-09-05T22:12:43.000Z</published>
-    <updated>2020-12-10T15:30:32.786Z</updated>
+    <updated>2020-12-10T20:00:44.259Z</updated>
     
     
       
@@ -102,7 +237,7 @@
     <link href="https://modernronin.github.io/2020/09/04/Project-Renamer/"/>
     <id>https://modernronin.github.io/2020/09/04/Project-Renamer/</id>
     <published>2020-09-04T22:04:13.000Z</published>
-    <updated>2020-12-10T15:30:32.786Z</updated>
+    <updated>2020-12-10T20:00:44.259Z</updated>
     
     
       
@@ -130,7 +265,7 @@
     <link href="https://modernronin.github.io/2020/09/02/Tuple-syntax-for-multiple-assignments/"/>
     <id>https://modernronin.github.io/2020/09/02/Tuple-syntax-for-multiple-assignments/</id>
     <published>2020-09-02T21:17:13.000Z</published>
-    <updated>2020-12-10T15:30:32.786Z</updated>
+    <updated>2020-12-10T20:00:44.259Z</updated>
     
     
       
@@ -156,7 +291,7 @@
     <link href="https://modernronin.github.io/2020/09/01/CosmosDB-and-Caching/"/>
     <id>https://modernronin.github.io/2020/09/01/CosmosDB-and-Caching/</id>
     <published>2020-09-01T21:26:09.000Z</published>
-    <updated>2020-12-10T15:30:32.786Z</updated>
+    <updated>2020-12-10T20:00:44.259Z</updated>
     
     
       
@@ -186,7 +321,7 @@
     <link href="https://modernronin.github.io/2020/08/28/Merging-a-specific-directory-only-from-one-branch-to-another/"/>
     <id>https://modernronin.github.io/2020/08/28/Merging-a-specific-directory-only-from-one-branch-to-another/</id>
     <published>2020-08-28T21:09:33.000Z</published>
-    <updated>2020-12-10T15:30:32.786Z</updated>
+    <updated>2020-12-10T20:00:44.259Z</updated>
     
     
       
@@ -210,7 +345,7 @@
     <link href="https://modernronin.github.io/2020/08/27/Anonymous-types-and-FluentAssertions/"/>
     <id>https://modernronin.github.io/2020/08/27/Anonymous-types-and-FluentAssertions/</id>
     <published>2020-08-27T14:18:55.000Z</published>
-    <updated>2020-12-10T15:30:32.786Z</updated>
+    <updated>2020-12-10T20:00:44.259Z</updated>
     
     
       
@@ -236,7 +371,7 @@
     <link href="https://modernronin.github.io/2020/08/12/Multiple-Visual-Studio-environments-on-one-machine/"/>
     <id>https://modernronin.github.io/2020/08/12/Multiple-Visual-Studio-environments-on-one-machine/</id>
     <published>2020-08-12T16:19:30.000Z</published>
-    <updated>2020-12-10T15:30:32.786Z</updated>
+    <updated>2020-12-10T20:00:44.259Z</updated>
     
     
       
@@ -251,9 +386,9 @@
     
     
     
-    <category term="Visual Studio" scheme="https://modernronin.github.io/tags/Visual-Studio/"/>
-    
     <category term="ReSharper" scheme="https://modernronin.github.io/tags/ReSharper/"/>
+    
+    <category term="Visual Studio" scheme="https://modernronin.github.io/tags/Visual-Studio/"/>
     
   </entry>
   
@@ -262,7 +397,7 @@
     <link href="https://modernronin.github.io/2020/08/10/Azure-Functions-and-the-CosmosDB-change-feed/"/>
     <id>https://modernronin.github.io/2020/08/10/Azure-Functions-and-the-CosmosDB-change-feed/</id>
     <published>2020-08-10T14:30:09.000Z</published>
-    <updated>2020-12-10T15:30:32.786Z</updated>
+    <updated>2020-12-10T20:00:44.259Z</updated>
     
     
       
@@ -290,7 +425,7 @@
     <link href="https://modernronin.github.io/2020/08/01/Hi-there/"/>
     <id>https://modernronin.github.io/2020/08/01/Hi-there/</id>
     <published>2020-08-01T19:16:32.000Z</published>
-    <updated>2020-12-10T15:30:32.786Z</updated>
+    <updated>2020-12-10T20:00:44.259Z</updated>
     
     
       

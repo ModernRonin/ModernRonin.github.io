@@ -15,8 +15,153 @@
     <atom:link href="https://modernronin.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Thu, 10 Dec 2020 15:30:32 GMT</pubDate>
+    <pubDate>Thu, 10 Dec 2020 20:00:44 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Testing with Flurl</title>
+      <link>https://modernronin.github.io/2020/10/13/Testing-with-Flurl/</link>
+      <guid>https://modernronin.github.io/2020/10/13/Testing-with-Flurl/</guid>
+      <pubDate>Tue, 13 Oct 2020 23:09:04 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;When developing against REST APIs without dedicated client libraries, I very much like to use &lt;a</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/TDD/">TDD</category>
+      
+      <category domain="https://modernronin.github.io/tags/REST-APIs/">REST APIs</category>
+      
+      <category domain="https://modernronin.github.io/tags/Flurl/">Flurl</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/10/13/Testing-with-Flurl/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>FluentAssertions: How to assert collection&#39;s elements with equivalence AND order</title>
+      <link>https://modernronin.github.io/2020/10/12/FluentAssertions-How-to-assert-collection-s-elements-with-equivalence-AND-order/</link>
+      <guid>https://modernronin.github.io/2020/10/12/FluentAssertions-How-to-assert-collection-s-elements-with-equivalence-AND-order/</guid>
+      <pubDate>Mon, 12 Oct 2020 22:30:08 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;I’ve been using the marvellous &lt;a href=&quot;https://fluentassertions.com/&quot;&gt;FluentAssertions&lt;/a&gt; library for many years, yet I still discover</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/FluentAssertions/">FluentAssertions</category>
+      
+      <category domain="https://modernronin.github.io/tags/TDD/">TDD</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/10/12/FluentAssertions-How-to-assert-collection-s-elements-with-equivalence-AND-order/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Quick Circular Buffer</title>
+      <link>https://modernronin.github.io/2020/10/08/Quick-Circular-Enumerator/</link>
+      <guid>https://modernronin.github.io/2020/10/08/Quick-Circular-Enumerator/</guid>
+      <pubDate>Thu, 08 Oct 2020 22:20:08 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Recently, I found myself for the first time in my 25+ year career needing infinite iteration over a finite set of elements. &lt;/p&gt;
+&lt;p&gt;The</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/data-structures/">data structures</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/10/08/Quick-Circular-Enumerator/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>HttpStatusCode in netstandard 2.0</title>
+      <link>https://modernronin.github.io/2020/09/28/HttpStatusCode-in-netstandard-2-0/</link>
+      <guid>https://modernronin.github.io/2020/09/28/HttpStatusCode-in-netstandard-2-0/</guid>
+      <pubDate>Mon, 28 Sep 2020 22:04:01 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Today I stumbled across a strange omission in netstandard2.0: the &lt;code&gt;HttpStatusCode&lt;/code&gt; enum is incomplete (as opposed to, say,</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/netstandard2-0/">netstandard2.0</category>
+      
+      <category domain="https://modernronin.github.io/tags/BCL/">BCL</category>
+      
+      <category domain="https://modernronin.github.io/tags/gotchas/">gotchas</category>
+      
+      <category domain="https://modernronin.github.io/tags/C-language/">C# language</category>
+      
+      <category domain="https://modernronin.github.io/tags/F-language/">F# language</category>
+      
+      <category domain="https://modernronin.github.io/tags/language-design/">language design</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/09/28/HttpStatusCode-in-netstandard-2-0/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Exclude code regions from ReSharpers&#39; format</title>
+      <link>https://modernronin.github.io/2020/09/17/Exclude-code-regions-from-ReSharpers-format/</link>
+      <guid>https://modernronin.github.io/2020/09/17/Exclude-code-regions-from-ReSharpers-format/</guid>
+      <pubDate>Thu, 17 Sep 2020 22:55:34 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;A dev-friend was unhappy about not being able to exclude certain code passages from R#’s cleanup/formatting feature.&lt;/p&gt;
+&lt;p&gt;Actually,</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/ReSharper/">ReSharper</category>
+      
+      <category domain="https://modernronin.github.io/tags/code-format/">code format</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/09/17/Exclude-code-regions-from-ReSharpers-format/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>renameproject v1.0.1</title>
@@ -268,9 +413,9 @@
       
       
       
-      <category domain="https://modernronin.github.io/tags/Visual-Studio/">Visual Studio</category>
-      
       <category domain="https://modernronin.github.io/tags/ReSharper/">ReSharper</category>
+      
+      <category domain="https://modernronin.github.io/tags/Visual-Studio/">Visual Studio</category>
       
       
       <comments>https://modernronin.github.io/2020/08/12/Multiple-Visual-Studio-environments-on-one-machine/#disqus_thread</comments>
