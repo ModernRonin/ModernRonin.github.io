@@ -2,9 +2,9 @@
 title: Azure Functions and the CosmosDB change feed
 date: 2020-08-10 14:30:09
 tags: 
-  - azure
-  - azure functions
-  - cosmosdb
+  - Azure
+  - Azure Functions
+  - CosmosDb
 ---
 
 If you ever work with an Azure Function that is connected to/triggered by a CosmosDb change feed:
