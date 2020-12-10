@@ -89,11 +89,11 @@ menu:
     icon: fa-rss
 
 widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.
-  - search
+#  - search
 # - category
-  - tag
-  - recent_posts
-  - recent_comments
+#  - tag
+#  - recent_posts
+#  - recent_comments
 # - links
 
 links:
