@@ -15,8 +15,211 @@
     <atom:link href="https://modernronin.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Wed, 09 Dec 2020 20:57:09 GMT</pubDate>
+    <pubDate>Thu, 10 Dec 2020 15:30:32 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>renameproject v1.0.1</title>
+      <link>https://modernronin.github.io/2020/09/15/renameproject-v1-0-1/</link>
+      <guid>https://modernronin.github.io/2020/09/15/renameproject-v1-0-1/</guid>
+      <pubDate>Tue, 15 Sep 2020 22:27:09 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;There’s an update out for &lt;code&gt;renameproject&lt;/code&gt;, just a bugfix release. See &lt;a</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/Visual-Studio/">Visual Studio</category>
+      
+      <category domain="https://modernronin.github.io/tags/renameproject/">renameproject</category>
+      
+      <category domain="https://modernronin.github.io/tags/commandline-tools/">commandline tools</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/09/15/renameproject-v1-0-1/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Good advise for younger devs</title>
+      <link>https://modernronin.github.io/2020/09/06/Good-advise-for-younger-devs/</link>
+      <guid>https://modernronin.github.io/2020/09/06/Good-advise-for-younger-devs/</guid>
+      <pubDate>Sun, 06 Sep 2020 22:19:49 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Another interesting article, this time something for younger folk (careerwise). With my 25+ years of experience, I can say that I agree</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/craftsmanship/">craftsmanship</category>
+      
+      <category domain="https://modernronin.github.io/tags/interesting-articles/">interesting articles</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/09/06/Good-advise-for-younger-devs/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Interesting article about Microservices</title>
+      <link>https://modernronin.github.io/2020/09/05/Interesting-article-about-Microservices/</link>
+      <guid>https://modernronin.github.io/2020/09/05/Interesting-article-about-Microservices/</guid>
+      <pubDate>Sat, 05 Sep 2020 22:12:43 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;I stumbled across an interesting article about design in the context of microservices. The great thing about this piece is that they are</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/interesting-articles/">interesting articles</category>
+      
+      <category domain="https://modernronin.github.io/tags/microservices/">microservices</category>
+      
+      <category domain="https://modernronin.github.io/tags/architecture/">architecture</category>
+      
+      <category domain="https://modernronin.github.io/tags/software-design/">software design</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/09/05/Interesting-article-about-Microservices/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Project Renamer</title>
+      <link>https://modernronin.github.io/2020/09/04/Project-Renamer/</link>
+      <guid>https://modernronin.github.io/2020/09/04/Project-Renamer/</guid>
+      <pubDate>Fri, 04 Sep 2020 22:04:13 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Okay, this is going to be a bit of a plug, but…&lt;/p&gt;
+&lt;p&gt;Over the years, it has always annoyed me that Visual Studio doesn’t properly</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/Visual-Studio/">Visual Studio</category>
+      
+      <category domain="https://modernronin.github.io/tags/renameproject/">renameproject</category>
+      
+      <category domain="https://modernronin.github.io/tags/commandline-tools/">commandline tools</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/09/04/Project-Renamer/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Tuple syntax for multiple assignments</title>
+      <link>https://modernronin.github.io/2020/09/02/Tuple-syntax-for-multiple-assignments/</link>
+      <guid>https://modernronin.github.io/2020/09/02/Tuple-syntax-for-multiple-assignments/</guid>
+      <pubDate>Wed, 02 Sep 2020 21:17:13 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;This is a short one. I just noticed how neat tuple syntax can be for multiple assignments:&lt;/p&gt;
+&lt;figure class=&quot;highlight</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/C-language/">C# language</category>
+      
+      <category domain="https://modernronin.github.io/tags/Tuples/">Tuples</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/09/02/Tuple-syntax-for-multiple-assignments/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>CosmosDB and Caching</title>
+      <link>https://modernronin.github.io/2020/09/01/CosmosDB-and-Caching/</link>
+      <guid>https://modernronin.github.io/2020/09/01/CosmosDB-and-Caching/</guid>
+      <pubDate>Tue, 01 Sep 2020 21:26:09 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Iff you ever work with CosmosDb and are concerned about high volume accesses:&lt;/p&gt;
+&lt;p&gt;CosmosDb is fast, no doubt, but because it’s never</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/Azure/">Azure</category>
+      
+      <category domain="https://modernronin.github.io/tags/CosmosDb/">CosmosDb</category>
+      
+      <category domain="https://modernronin.github.io/tags/Redis/">Redis</category>
+      
+      <category domain="https://modernronin.github.io/tags/Caching/">Caching</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/09/01/CosmosDB-and-Caching/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Merging a specific directory only from one branch to another</title>
+      <link>https://modernronin.github.io/2020/08/28/Merging-a-specific-directory-only-from-one-branch-to-another/</link>
+      <guid>https://modernronin.github.io/2020/08/28/Merging-a-specific-directory-only-from-one-branch-to-another/</guid>
+      <pubDate>Fri, 28 Aug 2020 21:09:33 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Sometimes, you find yourself in the situation of needing just one directory from one branch in another one. &lt;/p&gt;
+&lt;p&gt;Depending on what</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/git/">git</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/08/28/Merging-a-specific-directory-only-from-one-branch-to-another/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Anonymous types and FluentAssertions</title>
@@ -93,11 +296,11 @@
       
       
       
-      <category domain="https://modernronin.github.io/tags/azure/">azure</category>
+      <category domain="https://modernronin.github.io/tags/Azure/">Azure</category>
       
-      <category domain="https://modernronin.github.io/tags/azure-functions/">azure functions</category>
+      <category domain="https://modernronin.github.io/tags/Azure-Functions/">Azure Functions</category>
       
-      <category domain="https://modernronin.github.io/tags/cosmosdb/">cosmosdb</category>
+      <category domain="https://modernronin.github.io/tags/CosmosDb/">CosmosDb</category>
       
       
       <comments>https://modernronin.github.io/2020/08/10/Azure-Functions-and-the-CosmosDB-change-feed/#disqus_thread</comments>

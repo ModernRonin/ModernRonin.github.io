@@ -6,7 +6,7 @@
   <link href="https://modernronin.github.io/atom.xml" rel="self"/>
   
   <link href="https://modernronin.github.io/"/>
-  <updated>2020-12-09T20:57:09.505Z</updated>
+  <updated>2020-12-10T15:30:32.786Z</updated>
   <id>https://modernronin.github.io/</id>
   
   <author>
@@ -17,11 +17,200 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>renameproject v1.0.1</title>
+    <link href="https://modernronin.github.io/2020/09/15/renameproject-v1-0-1/"/>
+    <id>https://modernronin.github.io/2020/09/15/renameproject-v1-0-1/</id>
+    <published>2020-09-15T22:27:09.000Z</published>
+    <updated>2020-12-10T15:30:32.786Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;There’s an update out for &lt;code&gt;renameproject&lt;/code&gt;, just a bugfix release. See &lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Visual Studio" scheme="https://modernronin.github.io/tags/Visual-Studio/"/>
+    
+    <category term="renameproject" scheme="https://modernronin.github.io/tags/renameproject/"/>
+    
+    <category term="commandline tools" scheme="https://modernronin.github.io/tags/commandline-tools/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Good advise for younger devs</title>
+    <link href="https://modernronin.github.io/2020/09/06/Good-advise-for-younger-devs/"/>
+    <id>https://modernronin.github.io/2020/09/06/Good-advise-for-younger-devs/</id>
+    <published>2020-09-06T22:19:49.000Z</published>
+    <updated>2020-12-10T15:30:32.786Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Another interesting article, this time something for younger folk (careerwise). With my 25+ years of experience, I can say that I agree</summary>
+        
+      
+    
+    
+    
+    
+    <category term="craftsmanship" scheme="https://modernronin.github.io/tags/craftsmanship/"/>
+    
+    <category term="interesting articles" scheme="https://modernronin.github.io/tags/interesting-articles/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Interesting article about Microservices</title>
+    <link href="https://modernronin.github.io/2020/09/05/Interesting-article-about-Microservices/"/>
+    <id>https://modernronin.github.io/2020/09/05/Interesting-article-about-Microservices/</id>
+    <published>2020-09-05T22:12:43.000Z</published>
+    <updated>2020-12-10T15:30:32.786Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;I stumbled across an interesting article about design in the context of microservices. The great thing about this piece is that they are</summary>
+        
+      
+    
+    
+    
+    
+    <category term="interesting articles" scheme="https://modernronin.github.io/tags/interesting-articles/"/>
+    
+    <category term="microservices" scheme="https://modernronin.github.io/tags/microservices/"/>
+    
+    <category term="architecture" scheme="https://modernronin.github.io/tags/architecture/"/>
+    
+    <category term="software design" scheme="https://modernronin.github.io/tags/software-design/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Project Renamer</title>
+    <link href="https://modernronin.github.io/2020/09/04/Project-Renamer/"/>
+    <id>https://modernronin.github.io/2020/09/04/Project-Renamer/</id>
+    <published>2020-09-04T22:04:13.000Z</published>
+    <updated>2020-12-10T15:30:32.786Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Okay, this is going to be a bit of a plug, but…&lt;/p&gt;
+&lt;p&gt;Over the years, it has always annoyed me that Visual Studio doesn’t properly</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Visual Studio" scheme="https://modernronin.github.io/tags/Visual-Studio/"/>
+    
+    <category term="renameproject" scheme="https://modernronin.github.io/tags/renameproject/"/>
+    
+    <category term="commandline tools" scheme="https://modernronin.github.io/tags/commandline-tools/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tuple syntax for multiple assignments</title>
+    <link href="https://modernronin.github.io/2020/09/02/Tuple-syntax-for-multiple-assignments/"/>
+    <id>https://modernronin.github.io/2020/09/02/Tuple-syntax-for-multiple-assignments/</id>
+    <published>2020-09-02T21:17:13.000Z</published>
+    <updated>2020-12-10T15:30:32.786Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;This is a short one. I just noticed how neat tuple syntax can be for multiple assignments:&lt;/p&gt;
+&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    
+    <category term="C# language" scheme="https://modernronin.github.io/tags/C-language/"/>
+    
+    <category term="Tuples" scheme="https://modernronin.github.io/tags/Tuples/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>CosmosDB and Caching</title>
+    <link href="https://modernronin.github.io/2020/09/01/CosmosDB-and-Caching/"/>
+    <id>https://modernronin.github.io/2020/09/01/CosmosDB-and-Caching/</id>
+    <published>2020-09-01T21:26:09.000Z</published>
+    <updated>2020-12-10T15:30:32.786Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Iff you ever work with CosmosDb and are concerned about high volume accesses:&lt;/p&gt;
+&lt;p&gt;CosmosDb is fast, no doubt, but because it’s never</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Azure" scheme="https://modernronin.github.io/tags/Azure/"/>
+    
+    <category term="CosmosDb" scheme="https://modernronin.github.io/tags/CosmosDb/"/>
+    
+    <category term="Redis" scheme="https://modernronin.github.io/tags/Redis/"/>
+    
+    <category term="Caching" scheme="https://modernronin.github.io/tags/Caching/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Merging a specific directory only from one branch to another</title>
+    <link href="https://modernronin.github.io/2020/08/28/Merging-a-specific-directory-only-from-one-branch-to-another/"/>
+    <id>https://modernronin.github.io/2020/08/28/Merging-a-specific-directory-only-from-one-branch-to-another/</id>
+    <published>2020-08-28T21:09:33.000Z</published>
+    <updated>2020-12-10T15:30:32.786Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Sometimes, you find yourself in the situation of needing just one directory from one branch in another one. &lt;/p&gt;
+&lt;p&gt;Depending on what</summary>
+        
+      
+    
+    
+    
+    
+    <category term="git" scheme="https://modernronin.github.io/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Anonymous types and FluentAssertions</title>
     <link href="https://modernronin.github.io/2020/08/27/Anonymous-types-and-FluentAssertions/"/>
     <id>https://modernronin.github.io/2020/08/27/Anonymous-types-and-FluentAssertions/</id>
     <published>2020-08-27T14:18:55.000Z</published>
-    <updated>2020-12-09T20:57:09.505Z</updated>
+    <updated>2020-12-10T15:30:32.786Z</updated>
     
     
       
@@ -47,7 +236,7 @@
     <link href="https://modernronin.github.io/2020/08/12/Multiple-Visual-Studio-environments-on-one-machine/"/>
     <id>https://modernronin.github.io/2020/08/12/Multiple-Visual-Studio-environments-on-one-machine/</id>
     <published>2020-08-12T16:19:30.000Z</published>
-    <updated>2020-12-09T20:57:09.505Z</updated>
+    <updated>2020-12-10T15:30:32.786Z</updated>
     
     
       
@@ -73,7 +262,7 @@
     <link href="https://modernronin.github.io/2020/08/10/Azure-Functions-and-the-CosmosDB-change-feed/"/>
     <id>https://modernronin.github.io/2020/08/10/Azure-Functions-and-the-CosmosDB-change-feed/</id>
     <published>2020-08-10T14:30:09.000Z</published>
-    <updated>2020-12-09T20:57:09.505Z</updated>
+    <updated>2020-12-10T15:30:32.786Z</updated>
     
     
       
@@ -88,11 +277,11 @@
     
     
     
-    <category term="azure" scheme="https://modernronin.github.io/tags/azure/"/>
+    <category term="Azure" scheme="https://modernronin.github.io/tags/Azure/"/>
     
-    <category term="azure functions" scheme="https://modernronin.github.io/tags/azure-functions/"/>
+    <category term="Azure Functions" scheme="https://modernronin.github.io/tags/Azure-Functions/"/>
     
-    <category term="cosmosdb" scheme="https://modernronin.github.io/tags/cosmosdb/"/>
+    <category term="CosmosDb" scheme="https://modernronin.github.io/tags/CosmosDb/"/>
     
   </entry>
   
@@ -101,7 +290,7 @@
     <link href="https://modernronin.github.io/2020/08/01/Hi-there/"/>
     <id>https://modernronin.github.io/2020/08/01/Hi-there/</id>
     <published>2020-08-01T19:16:32.000Z</published>
-    <updated>2020-12-09T20:57:09.505Z</updated>
+    <updated>2020-12-10T15:30:32.786Z</updated>
     
     
       
