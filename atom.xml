@@ -6,7 +6,7 @@
   <link href="https://modernronin.github.io/atom.xml" rel="self"/>
   
   <link href="https://modernronin.github.io/"/>
-  <updated>2020-12-10T20:00:44.259Z</updated>
+  <updated>2020-12-10T20:38:54.172Z</updated>
   <id>https://modernronin.github.io/</id>
   
   <author>
@@ -17,11 +17,168 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>renameproject v2.1 - Move Support</title>
+    <link href="https://modernronin.github.io/2020/12/03/renameproject-v2-1/"/>
+    <id>https://modernronin.github.io/2020/12/03/renameproject-v2-1/</id>
+    <published>2020-12-03T22:35:23.000Z</published>
+    <updated>2020-12-10T20:38:54.172Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;code&gt;renameproject&lt;/code&gt; now also supports moving projects to different directories. See &lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Visual Studio" scheme="https://modernronin.github.io/tags/Visual-Studio/"/>
+    
+    <category term="renameproject" scheme="https://modernronin.github.io/tags/renameproject/"/>
+    
+    <category term="commandline tools" scheme="https://modernronin.github.io/tags/commandline-tools/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Extract a parameter object with R#</title>
+    <link href="https://modernronin.github.io/2020/11/24/Extract-a-parameter-object-with-R/"/>
+    <id>https://modernronin.github.io/2020/11/24/Extract-a-parameter-object-with-R/</id>
+    <published>2020-11-24T21:27:00.000Z</published>
+    <updated>2020-12-10T20:38:54.172Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;At some point in the many years since I’ve been using R#, they have sneaked in a very useful feature, but hidden it so well that it took</summary>
+        
+      
+    
+    
+    
+    
+    <category term="ReSharper" scheme="https://modernronin.github.io/tags/ReSharper/"/>
+    
+    <category term="refactoring" scheme="https://modernronin.github.io/tags/refactoring/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Duplicate a code window in VS</title>
+    <link href="https://modernronin.github.io/2020/11/16/Duplicate-a-code-window-in-VS/"/>
+    <id>https://modernronin.github.io/2020/11/16/Duplicate-a-code-window-in-VS/</id>
+    <published>2020-11-16T21:23:06.000Z</published>
+    <updated>2020-12-10T20:38:54.172Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;If anyone wondered, like me, how in Visual Studio you can get a horizontal equivalent for &lt;code&gt;Window | Split&lt;/code&gt;:&lt;/p&gt;
+&lt;p&gt;While the</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Visual Studio" scheme="https://modernronin.github.io/tags/Visual-Studio/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PlantUml</title>
+    <link href="https://modernronin.github.io/2020/11/05/PlantUml/"/>
+    <id>https://modernronin.github.io/2020/11/05/PlantUml/</id>
+    <published>2020-11-05T22:18:03.000Z</published>
+    <updated>2020-12-10T20:38:54.172Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Lately, I’ve started to use &lt;a href=&quot;https://plantuml.com/&quot;&gt;PlantUML&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;If you are like me and prefer keyboard over mouse and</summary>
+        
+      
+    
+    
+    
+    
+    <category term="uml" scheme="https://modernronin.github.io/tags/uml/"/>
+    
+    <category term="diagramming" scheme="https://modernronin.github.io/tags/diagramming/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>About System.Threading.Channels</title>
+    <link href="https://modernronin.github.io/2020/10/30/About-System-Threading-Channels/"/>
+    <id>https://modernronin.github.io/2020/10/30/About-System-Threading-Channels/</id>
+    <published>2020-10-30T21:09:01.000Z</published>
+    <updated>2020-12-10T20:38:54.172Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;I just stumbled across an article about a new addition to the BCL, the &lt;code&gt;System.Threading.Channels&lt;/code&gt; namespace. &lt;/p&gt;
+&lt;p&gt;The new</summary>
+        
+      
+    
+    
+    
+    
+    <category term="BCL" scheme="https://modernronin.github.io/tags/BCL/"/>
+    
+    <category term="Threading" scheme="https://modernronin.github.io/tags/Threading/"/>
+    
+    <category term="interesting articles" scheme="https://modernronin.github.io/tags/interesting-articles/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>renameproject v2.0</title>
+    <link href="https://modernronin.github.io/2020/10/20/renameproject-v2-0/"/>
+    <id>https://modernronin.github.io/2020/10/20/renameproject-v2-0/</id>
+    <published>2020-10-20T23:02:01.000Z</published>
+    <updated>2020-12-10T20:38:54.172Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;There’s an update out for &lt;code&gt;renameproject&lt;/code&gt;. This is a bit of a bigger change in how you control its behavior. See &lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Visual Studio" scheme="https://modernronin.github.io/tags/Visual-Studio/"/>
+    
+    <category term="renameproject" scheme="https://modernronin.github.io/tags/renameproject/"/>
+    
+    <category term="commandline tools" scheme="https://modernronin.github.io/tags/commandline-tools/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Testing with Flurl</title>
     <link href="https://modernronin.github.io/2020/10/13/Testing-with-Flurl/"/>
     <id>https://modernronin.github.io/2020/10/13/Testing-with-Flurl/</id>
     <published>2020-10-13T23:09:04.000Z</published>
-    <updated>2020-12-10T20:00:44.259Z</updated>
+    <updated>2020-12-10T20:38:54.172Z</updated>
     
     
       
@@ -48,7 +205,7 @@
     <link href="https://modernronin.github.io/2020/10/12/FluentAssertions-How-to-assert-collection-s-elements-with-equivalence-AND-order/"/>
     <id>https://modernronin.github.io/2020/10/12/FluentAssertions-How-to-assert-collection-s-elements-with-equivalence-AND-order/</id>
     <published>2020-10-12T22:30:08.000Z</published>
-    <updated>2020-12-10T20:00:44.259Z</updated>
+    <updated>2020-12-10T20:38:54.172Z</updated>
     
     
       
@@ -73,7 +230,7 @@
     <link href="https://modernronin.github.io/2020/10/08/Quick-Circular-Enumerator/"/>
     <id>https://modernronin.github.io/2020/10/08/Quick-Circular-Enumerator/</id>
     <published>2020-10-08T22:20:08.000Z</published>
-    <updated>2020-12-10T20:00:44.259Z</updated>
+    <updated>2020-12-10T20:38:54.172Z</updated>
     
     
       
@@ -97,7 +254,7 @@
     <link href="https://modernronin.github.io/2020/09/28/HttpStatusCode-in-netstandard-2-0/"/>
     <id>https://modernronin.github.io/2020/09/28/HttpStatusCode-in-netstandard-2-0/</id>
     <published>2020-09-28T22:04:01.000Z</published>
-    <updated>2020-12-10T20:00:44.259Z</updated>
+    <updated>2020-12-10T20:38:54.172Z</updated>
     
     
       
@@ -111,9 +268,9 @@
     
     
     
-    <category term="netstandard2.0" scheme="https://modernronin.github.io/tags/netstandard2-0/"/>
-    
     <category term="BCL" scheme="https://modernronin.github.io/tags/BCL/"/>
+    
+    <category term="netstandard2.0" scheme="https://modernronin.github.io/tags/netstandard2-0/"/>
     
     <category term="gotchas" scheme="https://modernronin.github.io/tags/gotchas/"/>
     
@@ -130,7 +287,7 @@
     <link href="https://modernronin.github.io/2020/09/17/Exclude-code-regions-from-ReSharpers-format/"/>
     <id>https://modernronin.github.io/2020/09/17/Exclude-code-regions-from-ReSharpers-format/</id>
     <published>2020-09-17T22:55:34.000Z</published>
-    <updated>2020-12-10T20:00:44.259Z</updated>
+    <updated>2020-12-10T20:38:54.172Z</updated>
     
     
       
@@ -156,7 +313,7 @@
     <link href="https://modernronin.github.io/2020/09/15/renameproject-v1-0-1/"/>
     <id>https://modernronin.github.io/2020/09/15/renameproject-v1-0-1/</id>
     <published>2020-09-15T22:27:09.000Z</published>
-    <updated>2020-12-10T20:00:44.259Z</updated>
+    <updated>2020-12-10T20:38:54.172Z</updated>
     
     
       
@@ -183,7 +340,7 @@
     <link href="https://modernronin.github.io/2020/09/06/Good-advise-for-younger-devs/"/>
     <id>https://modernronin.github.io/2020/09/06/Good-advise-for-younger-devs/</id>
     <published>2020-09-06T22:19:49.000Z</published>
-    <updated>2020-12-10T20:00:44.259Z</updated>
+    <updated>2020-12-10T20:38:54.172Z</updated>
     
     
       
@@ -197,9 +354,9 @@
     
     
     
-    <category term="craftsmanship" scheme="https://modernronin.github.io/tags/craftsmanship/"/>
-    
     <category term="interesting articles" scheme="https://modernronin.github.io/tags/interesting-articles/"/>
+    
+    <category term="craftsmanship" scheme="https://modernronin.github.io/tags/craftsmanship/"/>
     
   </entry>
   
@@ -208,7 +365,7 @@
     <link href="https://modernronin.github.io/2020/09/05/Interesting-article-about-Microservices/"/>
     <id>https://modernronin.github.io/2020/09/05/Interesting-article-about-Microservices/</id>
     <published>2020-09-05T22:12:43.000Z</published>
-    <updated>2020-12-10T20:00:44.259Z</updated>
+    <updated>2020-12-10T20:38:54.172Z</updated>
     
     
       
@@ -237,7 +394,7 @@
     <link href="https://modernronin.github.io/2020/09/04/Project-Renamer/"/>
     <id>https://modernronin.github.io/2020/09/04/Project-Renamer/</id>
     <published>2020-09-04T22:04:13.000Z</published>
-    <updated>2020-12-10T20:00:44.259Z</updated>
+    <updated>2020-12-10T20:38:54.172Z</updated>
     
     
       
@@ -265,7 +422,7 @@
     <link href="https://modernronin.github.io/2020/09/02/Tuple-syntax-for-multiple-assignments/"/>
     <id>https://modernronin.github.io/2020/09/02/Tuple-syntax-for-multiple-assignments/</id>
     <published>2020-09-02T21:17:13.000Z</published>
-    <updated>2020-12-10T20:00:44.259Z</updated>
+    <updated>2020-12-10T20:38:54.172Z</updated>
     
     
       
@@ -291,7 +448,7 @@
     <link href="https://modernronin.github.io/2020/09/01/CosmosDB-and-Caching/"/>
     <id>https://modernronin.github.io/2020/09/01/CosmosDB-and-Caching/</id>
     <published>2020-09-01T21:26:09.000Z</published>
-    <updated>2020-12-10T20:00:44.259Z</updated>
+    <updated>2020-12-10T20:38:54.172Z</updated>
     
     
       
@@ -321,7 +478,7 @@
     <link href="https://modernronin.github.io/2020/08/28/Merging-a-specific-directory-only-from-one-branch-to-another/"/>
     <id>https://modernronin.github.io/2020/08/28/Merging-a-specific-directory-only-from-one-branch-to-another/</id>
     <published>2020-08-28T21:09:33.000Z</published>
-    <updated>2020-12-10T20:00:44.259Z</updated>
+    <updated>2020-12-10T20:38:54.172Z</updated>
     
     
       
@@ -345,7 +502,7 @@
     <link href="https://modernronin.github.io/2020/08/27/Anonymous-types-and-FluentAssertions/"/>
     <id>https://modernronin.github.io/2020/08/27/Anonymous-types-and-FluentAssertions/</id>
     <published>2020-08-27T14:18:55.000Z</published>
-    <updated>2020-12-10T20:00:44.259Z</updated>
+    <updated>2020-12-10T20:38:54.172Z</updated>
     
     
       
@@ -371,7 +528,7 @@
     <link href="https://modernronin.github.io/2020/08/12/Multiple-Visual-Studio-environments-on-one-machine/"/>
     <id>https://modernronin.github.io/2020/08/12/Multiple-Visual-Studio-environments-on-one-machine/</id>
     <published>2020-08-12T16:19:30.000Z</published>
-    <updated>2020-12-10T20:00:44.259Z</updated>
+    <updated>2020-12-10T20:38:54.172Z</updated>
     
     
       
@@ -386,58 +543,9 @@
     
     
     
-    <category term="ReSharper" scheme="https://modernronin.github.io/tags/ReSharper/"/>
-    
     <category term="Visual Studio" scheme="https://modernronin.github.io/tags/Visual-Studio/"/>
     
-  </entry>
-  
-  <entry>
-    <title>Azure Functions and the CosmosDB change feed</title>
-    <link href="https://modernronin.github.io/2020/08/10/Azure-Functions-and-the-CosmosDB-change-feed/"/>
-    <id>https://modernronin.github.io/2020/08/10/Azure-Functions-and-the-CosmosDB-change-feed/</id>
-    <published>2020-08-10T14:30:09.000Z</published>
-    <updated>2020-12-10T20:00:44.259Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;If you ever work with an Azure Function that is connected to/triggered by a CosmosDb change feed:&lt;/p&gt;
-&lt;p&gt;Whenever you want to reset the</summary>
-        
-      
-    
-    
-    
-    
-    <category term="Azure" scheme="https://modernronin.github.io/tags/Azure/"/>
-    
-    <category term="Azure Functions" scheme="https://modernronin.github.io/tags/Azure-Functions/"/>
-    
-    <category term="CosmosDb" scheme="https://modernronin.github.io/tags/CosmosDb/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hi there</title>
-    <link href="https://modernronin.github.io/2020/08/01/Hi-there/"/>
-    <id>https://modernronin.github.io/2020/08/01/Hi-there/</id>
-    <published>2020-08-01T19:16:32.000Z</published>
-    <updated>2020-12-10T20:00:44.259Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;For a while, I’ve been posting thoughts, trick, tools etc. I found relevant or interesting to a Telegram group of software developers.</summary>
-        
-      
-    
-    
-    
+    <category term="ReSharper" scheme="https://modernronin.github.io/tags/ReSharper/"/>
     
   </entry>
   

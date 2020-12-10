@@ -15,8 +15,177 @@
     <atom:link href="https://modernronin.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Thu, 10 Dec 2020 20:00:44 GMT</pubDate>
+    <pubDate>Thu, 10 Dec 2020 20:38:54 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>renameproject v2.1 - Move Support</title>
+      <link>https://modernronin.github.io/2020/12/03/renameproject-v2-1/</link>
+      <guid>https://modernronin.github.io/2020/12/03/renameproject-v2-1/</guid>
+      <pubDate>Thu, 03 Dec 2020 22:35:23 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;&lt;code&gt;renameproject&lt;/code&gt; now also supports moving projects to different directories. See &lt;a</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/Visual-Studio/">Visual Studio</category>
+      
+      <category domain="https://modernronin.github.io/tags/renameproject/">renameproject</category>
+      
+      <category domain="https://modernronin.github.io/tags/commandline-tools/">commandline tools</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/12/03/renameproject-v2-1/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Extract a parameter object with R#</title>
+      <link>https://modernronin.github.io/2020/11/24/Extract-a-parameter-object-with-R/</link>
+      <guid>https://modernronin.github.io/2020/11/24/Extract-a-parameter-object-with-R/</guid>
+      <pubDate>Tue, 24 Nov 2020 21:27:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;At some point in the many years since I’ve been using R#, they have sneaked in a very useful feature, but hidden it so well that it took</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/ReSharper/">ReSharper</category>
+      
+      <category domain="https://modernronin.github.io/tags/refactoring/">refactoring</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/11/24/Extract-a-parameter-object-with-R/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>Duplicate a code window in VS</title>
+      <link>https://modernronin.github.io/2020/11/16/Duplicate-a-code-window-in-VS/</link>
+      <guid>https://modernronin.github.io/2020/11/16/Duplicate-a-code-window-in-VS/</guid>
+      <pubDate>Mon, 16 Nov 2020 21:23:06 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;If anyone wondered, like me, how in Visual Studio you can get a horizontal equivalent for &lt;code&gt;Window | Split&lt;/code&gt;:&lt;/p&gt;
+&lt;p&gt;While the</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/Visual-Studio/">Visual Studio</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/11/16/Duplicate-a-code-window-in-VS/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>PlantUml</title>
+      <link>https://modernronin.github.io/2020/11/05/PlantUml/</link>
+      <guid>https://modernronin.github.io/2020/11/05/PlantUml/</guid>
+      <pubDate>Thu, 05 Nov 2020 22:18:03 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Lately, I’ve started to use &lt;a href=&quot;https://plantuml.com/&quot;&gt;PlantUML&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;If you are like me and prefer keyboard over mouse and</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/uml/">uml</category>
+      
+      <category domain="https://modernronin.github.io/tags/diagramming/">diagramming</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/11/05/PlantUml/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>About System.Threading.Channels</title>
+      <link>https://modernronin.github.io/2020/10/30/About-System-Threading-Channels/</link>
+      <guid>https://modernronin.github.io/2020/10/30/About-System-Threading-Channels/</guid>
+      <pubDate>Fri, 30 Oct 2020 21:09:01 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;I just stumbled across an article about a new addition to the BCL, the &lt;code&gt;System.Threading.Channels&lt;/code&gt; namespace. &lt;/p&gt;
+&lt;p&gt;The new</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/BCL/">BCL</category>
+      
+      <category domain="https://modernronin.github.io/tags/Threading/">Threading</category>
+      
+      <category domain="https://modernronin.github.io/tags/interesting-articles/">interesting articles</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/10/30/About-System-Threading-Channels/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>renameproject v2.0</title>
+      <link>https://modernronin.github.io/2020/10/20/renameproject-v2-0/</link>
+      <guid>https://modernronin.github.io/2020/10/20/renameproject-v2-0/</guid>
+      <pubDate>Tue, 20 Oct 2020 23:02:01 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;There’s an update out for &lt;code&gt;renameproject&lt;/code&gt;. This is a bit of a bigger change in how you control its behavior. See &lt;a</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/Visual-Studio/">Visual Studio</category>
+      
+      <category domain="https://modernronin.github.io/tags/renameproject/">renameproject</category>
+      
+      <category domain="https://modernronin.github.io/tags/commandline-tools/">commandline tools</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/10/20/renameproject-v2-0/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Testing with Flurl</title>
@@ -118,9 +287,9 @@
       
       
       
-      <category domain="https://modernronin.github.io/tags/netstandard2-0/">netstandard2.0</category>
-      
       <category domain="https://modernronin.github.io/tags/BCL/">BCL</category>
+      
+      <category domain="https://modernronin.github.io/tags/netstandard2-0/">netstandard2.0</category>
       
       <category domain="https://modernronin.github.io/tags/gotchas/">gotchas</category>
       
@@ -210,9 +379,9 @@
       
       
       
-      <category domain="https://modernronin.github.io/tags/craftsmanship/">craftsmanship</category>
-      
       <category domain="https://modernronin.github.io/tags/interesting-articles/">interesting articles</category>
+      
+      <category domain="https://modernronin.github.io/tags/craftsmanship/">craftsmanship</category>
       
       
       <comments>https://modernronin.github.io/2020/09/06/Good-advise-for-younger-devs/#disqus_thread</comments>
@@ -413,65 +582,12 @@
       
       
       
-      <category domain="https://modernronin.github.io/tags/ReSharper/">ReSharper</category>
-      
       <category domain="https://modernronin.github.io/tags/Visual-Studio/">Visual Studio</category>
+      
+      <category domain="https://modernronin.github.io/tags/ReSharper/">ReSharper</category>
       
       
       <comments>https://modernronin.github.io/2020/08/12/Multiple-Visual-Studio-environments-on-one-machine/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Azure Functions and the CosmosDB change feed</title>
-      <link>https://modernronin.github.io/2020/08/10/Azure-Functions-and-the-CosmosDB-change-feed/</link>
-      <guid>https://modernronin.github.io/2020/08/10/Azure-Functions-and-the-CosmosDB-change-feed/</guid>
-      <pubDate>Mon, 10 Aug 2020 14:30:09 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;If you ever work with an Azure Function that is connected to/triggered by a CosmosDb change feed:&lt;/p&gt;
-&lt;p&gt;Whenever you want to reset the</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://modernronin.github.io/tags/Azure/">Azure</category>
-      
-      <category domain="https://modernronin.github.io/tags/Azure-Functions/">Azure Functions</category>
-      
-      <category domain="https://modernronin.github.io/tags/CosmosDb/">CosmosDb</category>
-      
-      
-      <comments>https://modernronin.github.io/2020/08/10/Azure-Functions-and-the-CosmosDB-change-feed/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Hi there</title>
-      <link>https://modernronin.github.io/2020/08/01/Hi-there/</link>
-      <guid>https://modernronin.github.io/2020/08/01/Hi-there/</guid>
-      <pubDate>Sat, 01 Aug 2020 19:16:32 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;For a while, I’ve been posting thoughts, trick, tools etc. I found relevant or interesting to a Telegram group of software developers.</description>
-          
-        
-      
-      
-      
-      
-      
-      
-      <comments>https://modernronin.github.io/2020/08/01/Hi-there/#disqus_thread</comments>
       
     </item>
     
