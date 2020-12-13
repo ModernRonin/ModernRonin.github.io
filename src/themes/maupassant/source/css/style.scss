@@ -535,7 +535,8 @@ blockquote,
 
 blockquote::before,
 .stressed-quote::before {
-    content: "\201C";
+    // font-family: "Font Awesome 4 Free !important";
+    // content: "\f05a";
     display: block;
     font-family: times;
     font-style: normal;
