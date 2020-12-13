@@ -15,8 +15,37 @@
     <atom:link href="https://modernronin.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Software development - techniques, opinions, thoughts</description>
-    <pubDate>Thu, 10 Dec 2020 21:53:50 GMT</pubDate>
+    <pubDate>Sun, 13 Dec 2020 14:21:36 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>renameproject v2.1.1</title>
+      <link>https://modernronin.github.io/2020/12/13/renameproject-v2-1-1/</link>
+      <guid>https://modernronin.github.io/2020/12/13/renameproject-v2-1-1/</guid>
+      <pubDate>Sun, 13 Dec 2020 14:15:15 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;There’s an update out for &lt;code&gt;renameproject&lt;/code&gt;, just a bugfix release. See &lt;a</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/Visual-Studio/">Visual Studio</category>
+      
+      <category domain="https://modernronin.github.io/tags/renameproject/">renameproject</category>
+      
+      <category domain="https://modernronin.github.io/tags/commandline-tools/">commandline tools</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/12/13/renameproject-v2-1-1/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>renameproject v2.1 - Move Support</title>
@@ -560,34 +589,6 @@
       
       
       <comments>https://modernronin.github.io/2020/08/27/Anonymous-types-and-FluentAssertions/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Multiple Visual Studio environments on one machine</title>
-      <link>https://modernronin.github.io/2020/08/12/Multiple-Visual-Studio-environments-on-one-machine/</link>
-      <guid>https://modernronin.github.io/2020/08/12/Multiple-Visual-Studio-environments-on-one-machine/</guid>
-      <pubDate>Wed, 12 Aug 2020 16:19:30 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;I just found out there is a way to have multiple VS environments (without actually having side-by-side installs).&lt;/p&gt;
-&lt;p&gt;From a prompt,</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://modernronin.github.io/tags/Visual-Studio/">Visual Studio</category>
-      
-      <category domain="https://modernronin.github.io/tags/ReSharper/">ReSharper</category>
-      
-      
-      <comments>https://modernronin.github.io/2020/08/12/Multiple-Visual-Studio-environments-on-one-machine/#disqus_thread</comments>
       
     </item>
     
