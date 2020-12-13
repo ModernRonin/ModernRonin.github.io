@@ -6,7 +6,7 @@
   <link href="https://modernronin.github.io/atom.xml" rel="self"/>
   
   <link href="https://modernronin.github.io/"/>
-  <updated>2020-12-13T14:21:36.382Z</updated>
+  <updated>2020-12-13T18:55:42.803Z</updated>
   <id>https://modernronin.github.io/</id>
   
   <author>
@@ -17,11 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Integrating dependency injection into a legacy code base</title>
+    <link href="https://modernronin.github.io/2020/12/13/Integrating-depencency-injection-into-a-legacy-code-base/"/>
+    <id>https://modernronin.github.io/2020/12/13/Integrating-depencency-injection-into-a-legacy-code-base/</id>
+    <published>2020-12-13T18:55:11.000Z</published>
+    <updated>2020-12-13T18:55:42.803Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Nobody likes it, but most of us eventually encounter a legacy code-base without tests and without IOC where everything revolves around</summary>
+        
+      
+    
+    
+    
+    
+    <category term="ReSharper" scheme="https://modernronin.github.io/tags/ReSharper/"/>
+    
+    <category term="refactoring" scheme="https://modernronin.github.io/tags/refactoring/"/>
+    
+    <category term="software design" scheme="https://modernronin.github.io/tags/software-design/"/>
+    
+    <category term="legacy code" scheme="https://modernronin.github.io/tags/legacy-code/"/>
+    
+    <category term="long" scheme="https://modernronin.github.io/tags/long/"/>
+    
+  </entry>
+  
+  <entry>
     <title>renameproject v2.1.1</title>
     <link href="https://modernronin.github.io/2020/12/13/renameproject-v2-1-1/"/>
     <id>https://modernronin.github.io/2020/12/13/renameproject-v2-1-1/</id>
     <published>2020-12-13T14:15:15.000Z</published>
-    <updated>2020-12-13T14:21:36.382Z</updated>
+    <updated>2020-12-13T18:55:42.803Z</updated>
     
     
       
@@ -48,7 +79,7 @@
     <link href="https://modernronin.github.io/2020/12/03/renameproject-v2-1/"/>
     <id>https://modernronin.github.io/2020/12/03/renameproject-v2-1/</id>
     <published>2020-12-03T22:35:23.000Z</published>
-    <updated>2020-12-13T14:21:36.382Z</updated>
+    <updated>2020-12-13T18:55:42.803Z</updated>
     
     
       
@@ -75,7 +106,7 @@
     <link href="https://modernronin.github.io/2020/11/24/Extract-a-parameter-object-with-R/"/>
     <id>https://modernronin.github.io/2020/11/24/Extract-a-parameter-object-with-R/</id>
     <published>2020-11-24T21:27:00.000Z</published>
-    <updated>2020-12-13T14:21:36.382Z</updated>
+    <updated>2020-12-13T18:55:42.803Z</updated>
     
     
       
@@ -100,7 +131,7 @@
     <link href="https://modernronin.github.io/2020/11/16/Duplicate-a-code-window-in-VS/"/>
     <id>https://modernronin.github.io/2020/11/16/Duplicate-a-code-window-in-VS/</id>
     <published>2020-11-16T21:23:06.000Z</published>
-    <updated>2020-12-13T14:21:36.382Z</updated>
+    <updated>2020-12-13T18:55:42.803Z</updated>
     
     
       
@@ -124,7 +155,7 @@
     <link href="https://modernronin.github.io/2020/11/05/PlantUml/"/>
     <id>https://modernronin.github.io/2020/11/05/PlantUml/</id>
     <published>2020-11-05T22:18:03.000Z</published>
-    <updated>2020-12-13T14:21:36.382Z</updated>
+    <updated>2020-12-13T18:55:42.803Z</updated>
     
     
       
@@ -150,7 +181,7 @@
     <link href="https://modernronin.github.io/2020/10/30/About-System-Threading-Channels/"/>
     <id>https://modernronin.github.io/2020/10/30/About-System-Threading-Channels/</id>
     <published>2020-10-30T21:09:01.000Z</published>
-    <updated>2020-12-13T14:21:36.382Z</updated>
+    <updated>2020-12-13T18:55:42.803Z</updated>
     
     
       
@@ -178,7 +209,7 @@
     <link href="https://modernronin.github.io/2020/10/20/renameproject-v2-0/"/>
     <id>https://modernronin.github.io/2020/10/20/renameproject-v2-0/</id>
     <published>2020-10-20T23:02:01.000Z</published>
-    <updated>2020-12-13T14:21:36.382Z</updated>
+    <updated>2020-12-13T18:55:42.803Z</updated>
     
     
       
@@ -205,7 +236,7 @@
     <link href="https://modernronin.github.io/2020/10/13/Testing-with-Flurl/"/>
     <id>https://modernronin.github.io/2020/10/13/Testing-with-Flurl/</id>
     <published>2020-10-13T23:09:04.000Z</published>
-    <updated>2020-12-13T14:21:36.382Z</updated>
+    <updated>2020-12-13T18:55:42.803Z</updated>
     
     
       
@@ -232,7 +263,7 @@
     <link href="https://modernronin.github.io/2020/10/12/FluentAssertions-How-to-assert-collection-s-elements-with-equivalence-AND-order/"/>
     <id>https://modernronin.github.io/2020/10/12/FluentAssertions-How-to-assert-collection-s-elements-with-equivalence-AND-order/</id>
     <published>2020-10-12T22:30:08.000Z</published>
-    <updated>2020-12-13T14:21:36.382Z</updated>
+    <updated>2020-12-13T18:55:42.803Z</updated>
     
     
       
@@ -257,7 +288,7 @@
     <link href="https://modernronin.github.io/2020/10/08/Quick-Circular-Enumerator/"/>
     <id>https://modernronin.github.io/2020/10/08/Quick-Circular-Enumerator/</id>
     <published>2020-10-08T22:20:08.000Z</published>
-    <updated>2020-12-13T14:21:36.382Z</updated>
+    <updated>2020-12-13T18:55:42.803Z</updated>
     
     
       
@@ -281,7 +312,7 @@
     <link href="https://modernronin.github.io/2020/09/28/HttpStatusCode-in-netstandard-2-0/"/>
     <id>https://modernronin.github.io/2020/09/28/HttpStatusCode-in-netstandard-2-0/</id>
     <published>2020-09-28T22:04:01.000Z</published>
-    <updated>2020-12-13T14:21:36.382Z</updated>
+    <updated>2020-12-13T18:55:42.803Z</updated>
     
     
       
@@ -314,7 +345,7 @@
     <link href="https://modernronin.github.io/2020/09/17/Exclude-code-regions-from-ReSharpers-format/"/>
     <id>https://modernronin.github.io/2020/09/17/Exclude-code-regions-from-ReSharpers-format/</id>
     <published>2020-09-17T22:55:34.000Z</published>
-    <updated>2020-12-13T14:21:36.382Z</updated>
+    <updated>2020-12-13T18:55:42.803Z</updated>
     
     
       
@@ -340,7 +371,7 @@
     <link href="https://modernronin.github.io/2020/09/15/renameproject-v1-0-1/"/>
     <id>https://modernronin.github.io/2020/09/15/renameproject-v1-0-1/</id>
     <published>2020-09-15T22:27:09.000Z</published>
-    <updated>2020-12-13T14:21:36.382Z</updated>
+    <updated>2020-12-13T18:55:42.803Z</updated>
     
     
       
@@ -367,7 +398,7 @@
     <link href="https://modernronin.github.io/2020/09/06/Good-advise-for-younger-devs/"/>
     <id>https://modernronin.github.io/2020/09/06/Good-advise-for-younger-devs/</id>
     <published>2020-09-06T22:19:49.000Z</published>
-    <updated>2020-12-13T14:21:36.382Z</updated>
+    <updated>2020-12-13T18:55:42.803Z</updated>
     
     
       
@@ -392,7 +423,7 @@
     <link href="https://modernronin.github.io/2020/09/05/Interesting-article-about-Microservices/"/>
     <id>https://modernronin.github.io/2020/09/05/Interesting-article-about-Microservices/</id>
     <published>2020-09-05T22:12:43.000Z</published>
-    <updated>2020-12-13T14:21:36.382Z</updated>
+    <updated>2020-12-13T18:55:42.803Z</updated>
     
     
       
@@ -421,7 +452,7 @@
     <link href="https://modernronin.github.io/2020/09/04/Project-Renamer/"/>
     <id>https://modernronin.github.io/2020/09/04/Project-Renamer/</id>
     <published>2020-09-04T22:04:13.000Z</published>
-    <updated>2020-12-13T14:21:36.382Z</updated>
+    <updated>2020-12-13T18:55:42.803Z</updated>
     
     
       
@@ -449,7 +480,7 @@
     <link href="https://modernronin.github.io/2020/09/02/Tuple-syntax-for-multiple-assignments/"/>
     <id>https://modernronin.github.io/2020/09/02/Tuple-syntax-for-multiple-assignments/</id>
     <published>2020-09-02T21:17:13.000Z</published>
-    <updated>2020-12-13T14:21:36.382Z</updated>
+    <updated>2020-12-13T18:55:42.803Z</updated>
     
     
       
@@ -475,7 +506,7 @@
     <link href="https://modernronin.github.io/2020/09/01/CosmosDB-and-Caching/"/>
     <id>https://modernronin.github.io/2020/09/01/CosmosDB-and-Caching/</id>
     <published>2020-09-01T21:26:09.000Z</published>
-    <updated>2020-12-13T14:21:36.382Z</updated>
+    <updated>2020-12-13T18:55:42.803Z</updated>
     
     
       
@@ -505,7 +536,7 @@
     <link href="https://modernronin.github.io/2020/08/28/Merging-a-specific-directory-only-from-one-branch-to-another/"/>
     <id>https://modernronin.github.io/2020/08/28/Merging-a-specific-directory-only-from-one-branch-to-another/</id>
     <published>2020-08-28T21:09:33.000Z</published>
-    <updated>2020-12-13T14:21:36.382Z</updated>
+    <updated>2020-12-13T18:55:42.803Z</updated>
     
     
       
@@ -521,32 +552,6 @@
     
     
     <category term="git" scheme="https://modernronin.github.io/tags/git/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Anonymous types and FluentAssertions</title>
-    <link href="https://modernronin.github.io/2020/08/27/Anonymous-types-and-FluentAssertions/"/>
-    <id>https://modernronin.github.io/2020/08/27/Anonymous-types-and-FluentAssertions/</id>
-    <published>2020-08-27T14:18:55.000Z</published>
-    <updated>2020-12-13T14:21:36.382Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Say you are testing the return value of a method returning an interface:&lt;/p&gt;
-&lt;figure class=&quot;highlight csharp&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
-        
-      
-    
-    
-    
-    
-    <category term="FluentAssertions" scheme="https://modernronin.github.io/tags/FluentAssertions/"/>
-    
-    <category term="TDD" scheme="https://modernronin.github.io/tags/TDD/"/>
     
   </entry>
   

@@ -15,8 +15,41 @@
     <atom:link href="https://modernronin.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Software development - techniques, opinions, thoughts</description>
-    <pubDate>Sun, 13 Dec 2020 14:21:36 GMT</pubDate>
+    <pubDate>Sun, 13 Dec 2020 18:55:42 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Integrating dependency injection into a legacy code base</title>
+      <link>https://modernronin.github.io/2020/12/13/Integrating-depencency-injection-into-a-legacy-code-base/</link>
+      <guid>https://modernronin.github.io/2020/12/13/Integrating-depencency-injection-into-a-legacy-code-base/</guid>
+      <pubDate>Sun, 13 Dec 2020 18:55:11 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Nobody likes it, but most of us eventually encounter a legacy code-base without tests and without IOC where everything revolves around</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/ReSharper/">ReSharper</category>
+      
+      <category domain="https://modernronin.github.io/tags/refactoring/">refactoring</category>
+      
+      <category domain="https://modernronin.github.io/tags/software-design/">software design</category>
+      
+      <category domain="https://modernronin.github.io/tags/legacy-code/">legacy code</category>
+      
+      <category domain="https://modernronin.github.io/tags/long/">long</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/12/13/Integrating-depencency-injection-into-a-legacy-code-base/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>renameproject v2.1.1</title>
@@ -561,34 +594,6 @@
       
       
       <comments>https://modernronin.github.io/2020/08/28/Merging-a-specific-directory-only-from-one-branch-to-another/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Anonymous types and FluentAssertions</title>
-      <link>https://modernronin.github.io/2020/08/27/Anonymous-types-and-FluentAssertions/</link>
-      <guid>https://modernronin.github.io/2020/08/27/Anonymous-types-and-FluentAssertions/</guid>
-      <pubDate>Thu, 27 Aug 2020 14:18:55 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;Say you are testing the return value of a method returning an interface:&lt;/p&gt;
-&lt;figure class=&quot;highlight csharp&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://modernronin.github.io/tags/FluentAssertions/">FluentAssertions</category>
-      
-      <category domain="https://modernronin.github.io/tags/TDD/">TDD</category>
-      
-      
-      <comments>https://modernronin.github.io/2020/08/27/Anonymous-types-and-FluentAssertions/#disqus_thread</comments>
       
     </item>
     
