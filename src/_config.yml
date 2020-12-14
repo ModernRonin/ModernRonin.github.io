@@ -101,7 +101,14 @@ exclude:
 ignore:
 
 # Extensions
-mathjax: true
+mathjax: false
+
+sitemap:
+  path: sitemap.xml
+  template: ./sitemap_template.xml
+  rel: true
+  tags: true
+  categories: true
 
 feed:
   enable: true
