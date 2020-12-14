@@ -15,7 +15,7 @@
     <atom:link href="https://modernronin.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Software development - techniques, opinions, thoughts</description>
-    <pubDate>Sun, 13 Dec 2020 19:46:56 GMT</pubDate>
+    <pubDate>Mon, 14 Dec 2020 09:52:15 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -45,6 +45,8 @@
       <category domain="https://modernronin.github.io/tags/legacy-code/">legacy code</category>
       
       <category domain="https://modernronin.github.io/tags/long/">long</category>
+      
+      <category domain="https://modernronin.github.io/tags/Autofac/">Autofac</category>
       
       
       <comments>https://modernronin.github.io/2020/12/13/Integrating-depencency-injection-into-a-legacy-code-base/#disqus_thread</comments>
