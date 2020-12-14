@@ -7,6 +7,7 @@ tags:
   - legacy code
   - long
   - ReSharper
+  - Autofac
 ---
 
 
@@ -16,7 +17,7 @@ Now how do you work with such a beast? Refactoring the whole code-base to use IO
 
 But how do we deal with these singletons and the lack of IOC? Is there also a way to introduce it gradually, to create an island of sanity that can slowly grow over time?
 
-In this article, I'll show you how I dealt with this just recently. I use [Autofac](https://autofac.org/) because this has been my preferred container framework for years. But any other IOC framework that has a concept analogous to [Autofac's modules](https://autofaccn.readthedocs.io/en/latest/configuration/modules.html) should enable the same pattern.
+In this article, I'll show you how I dealt with this just recently. I use [Autofac](https://autofac.org/) because this has been my preferred container framework for years. 
 
 ## Initial situation
 Let's start with what I found before the refactoring:
@@ -233,6 +234,8 @@ After this, calls will look like:
 Globals.Repository.Sender.SendTextNotification(sender, recipients, text);
 ```
 
+Note how this now actually looks uglier than it did before this step. Callers are now required to do use a nested qualifier (`Globals.Repository.Sender.`) where before they could use a simple one (`Repository`). This is an example of a pattern occurring quite regularly when refactoring legacy code: you have to temporarily refactor to worse design to get to better design in the end. 
+
 `Repository` and `IRepository` no longer need the `Send*` methods.
 
 ```csharp
@@ -284,15 +287,15 @@ With this we have solved the first of the problems mentioned further up, product
 ## Introduce IOC container
 Finally, we can introduce a container, solving the remaining two issues.
 
-First, we create an Autofac module:
+First, we create an [Autofac's module](https://autofaccn.readthedocs.io/en/latest/configuration/modules.html):
 
 ```csharp
 public class IslandModule : Module
 {
     protected override void Load(ContainerBuilder builder)
     {
-        builder.RegisterType<Repository>().AsSelf().AsImplementedInterfaces();
-        builder.RegisterType<Sender>().AsSelf().AsImplementedInterfaces();
+        builder.RegisterType<Repository>().AsImplementedInterfaces();
+        builder.RegisterType<Sender>().AsImplementedInterfaces();
     }
 }
 ```
@@ -300,7 +303,7 @@ public class IslandModule : Module
 Then we adjust `Globals`:
 
 ```csharp
-public static class Globals
+public class Globals
 {
     static readonly Lazy<Globals> _instance = new Lazy<Globals>();
     readonly IContainer _container
@@ -333,16 +336,18 @@ Because it keeps everyone using it honest and serves as a reminder what is reall
 
 ### Why is `_instance` in `Globals` modelled as `Lazy<>`?
 
-Because `Lazy<>`'s value generation is intrinsically thread-safe and race-conditions do not lead to creation of multiple instances. This really is the kind of problem you wouldn't ever have if you used a container from the beginning, but as we are talking about a migration strategy from legacy code here, we must ensure thread-safety of singletons. 
+Because `Lazy<>`'s value generation is intrinsically thread-safe and race-conditions do not lead to creation of multiple instances. This really is the kind of problem you wouldn't ever have if you used a container from the beginning, but we are talking about migrating legacy code here, so we must ensure thread-safety of singletons. 
 
 ### What to do when mutual dependencies between extracted types and original legacy-types are not easily avoidable?
 
 For example, what if `Repository` would need to call some `ISender` methods? Then we'd have to inject `ISender` into `Repository` and 
 thus create a circular dependency between `Repository` and `Sender`. 
 
-The purist answer that this is a sign of poor design does not help in this context because this is really something that happens often until refactoring of the legacy types has progressed far enough - in practice this usually means many months because we don't get to refactor everything at once. (And even if we did, it wouldn't be wise to do it without intermediate steps, but that's a subject for another article.)
+The purist answer that this is a sign of poor design does not help in this context. This kind of complication happens really quite often until refactoring of the legacy types has progressed far enough. In practice this usually means many months because we don't get to refactor everything at once. (And even if we did, it wouldn't be wise to do it without intermediate steps, but that's a subject for another article.)
 
-When I encounter such a situation and there is no easy disentangling of responsibilities and thus dependencies that would not require a bigger refactoring effort than I can justify for my current scope, then I use `Lazy<>` or `Func<>` injections. For example:
+
+When I encounter such a situation, I use a `Lazy<>` or `Func<>` injection. The refactoring effort to properly disentangle the responsibilities and dependencies is often greater than can be justified for the current scope, so this can be a useful *temporary* compromise. Usually, as refactoring continues, most of these somewhat ugly injections will fall out again. 
+
 
 ```csharp
 public interface IRepository : ICurrentUserHolder
@@ -381,4 +386,14 @@ Whether to use `Lazy<>` or `Func<>` depends usually on whether or not the instan
 
 On a side note, that both `Func<T>` and `Lazy<T>` are resolved with no additional work, for any registered `T`, is one of many reasons I like Autofac so much as a container. 
 
+### Why use a Module
+
+Because it allows us to re-use the registration logic in other contexts where we don't need `Globals`.
+
+At some point refactoring of the legacy code-base will have converted everything to use IOC, then we won't need `Globals` anymore. By keeping the registration logic in a module from the start, we won't have to touch it when that happens.
+
+Further, once registration logic contains more than just a few registrations, it is a good idea to write unit-tests for it. A module is very easily testable while `Globals` is not - singletons never are. 
+
+## Thanks
+Thanks to [@alexvallat](https://github.com/alexvallat) for his feedback and questions!
 
