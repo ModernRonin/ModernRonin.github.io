@@ -15,8 +15,39 @@
     <atom:link href="https://modernronin.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Software development - techniques, opinions, thoughts</description>
-    <pubDate>Mon, 14 Dec 2020 11:18:30 GMT</pubDate>
+    <pubDate>Fri, 18 Dec 2020 08:56:48 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Prevent re-entrancy on long running async methods</title>
+      <link>https://modernronin.github.io/2020/12/17/Prevent-re-entrancy-on-long-running-async-methods/</link>
+      <guid>https://modernronin.github.io/2020/12/17/Prevent-re-entrancy-on-long-running-async-methods/</guid>
+      <pubDate>Thu, 17 Dec 2020 19:57:20 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Sometimes you got async methods you know will run for some time and you want to prevent them from being called while a previous call has</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/async/">async</category>
+      
+      <category domain="https://modernronin.github.io/tags/re-entrancy/">re-entrancy</category>
+      
+      <category domain="https://modernronin.github.io/tags/long-running/">long-running</category>
+      
+      <category domain="https://modernronin.github.io/tags/tdd/">tdd</category>
+      
+      
+      <comments>https://modernronin.github.io/2020/12/17/Prevent-re-entrancy-on-long-running-async-methods/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Integrating dependency injection into a legacy code base</title>
@@ -570,32 +601,6 @@
       
       
       <comments>https://modernronin.github.io/2020/09/01/CosmosDB-and-Caching/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Merging a specific directory only from one branch to another</title>
-      <link>https://modernronin.github.io/2020/08/28/Merging-a-specific-directory-only-from-one-branch-to-another/</link>
-      <guid>https://modernronin.github.io/2020/08/28/Merging-a-specific-directory-only-from-one-branch-to-another/</guid>
-      <pubDate>Fri, 28 Aug 2020 21:09:33 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;Sometimes, you find yourself in the situation of needing just one directory from one branch in another one. &lt;/p&gt;
-&lt;p&gt;Depending on what</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://modernronin.github.io/tags/git/">git</category>
-      
-      
-      <comments>https://modernronin.github.io/2020/08/28/Merging-a-specific-directory-only-from-one-branch-to-another/#disqus_thread</comments>
       
     </item>
     
