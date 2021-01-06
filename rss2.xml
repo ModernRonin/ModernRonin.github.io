@@ -15,8 +15,37 @@
     <atom:link href="https://modernronin.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Software development - techniques, opinions, thoughts</description>
-    <pubDate>Fri, 18 Dec 2020 08:56:48 GMT</pubDate>
+    <pubDate>Wed, 06 Jan 2021 13:14:21 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>NSubstitute and equivalency argument matching</title>
+      <link>https://modernronin.github.io/2021/01/06/NSubstitute-and-equivalency-argument-matching/</link>
+      <guid>https://modernronin.github.io/2021/01/06/NSubstitute-and-equivalency-argument-matching/</guid>
+      <pubDate>Wed, 06 Jan 2021 12:15:06 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;When using the otherwise superb &lt;a href=&quot;https://nsubstitute.github.io/&quot;&gt;NSubstitute&lt;/a&gt;, there is one thing that bothers me regularly:</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/nsubstitute/">nsubstitute</category>
+      
+      <category domain="https://modernronin.github.io/tags/nsubstitute-equivalency/">nsubstitute.equivalency</category>
+      
+      <category domain="https://modernronin.github.io/tags/fluentassertions/">fluentassertions</category>
+      
+      
+      <comments>https://modernronin.github.io/2021/01/06/NSubstitute-and-equivalency-argument-matching/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Prevent re-entrancy on long running async methods</title>
@@ -569,38 +598,6 @@
       
       
       <comments>https://modernronin.github.io/2020/09/02/Tuple-syntax-for-multiple-assignments/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>CosmosDB and Caching</title>
-      <link>https://modernronin.github.io/2020/09/01/CosmosDB-and-Caching/</link>
-      <guid>https://modernronin.github.io/2020/09/01/CosmosDB-and-Caching/</guid>
-      <pubDate>Tue, 01 Sep 2020 21:26:09 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;Iff you ever work with CosmosDb and are concerned about high volume accesses:&lt;/p&gt;
-&lt;p&gt;CosmosDb is fast, no doubt, but because it’s never</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://modernronin.github.io/tags/Azure/">Azure</category>
-      
-      <category domain="https://modernronin.github.io/tags/CosmosDb/">CosmosDb</category>
-      
-      <category domain="https://modernronin.github.io/tags/Redis/">Redis</category>
-      
-      <category domain="https://modernronin.github.io/tags/Caching/">Caching</category>
-      
-      
-      <comments>https://modernronin.github.io/2020/09/01/CosmosDB-and-Caching/#disqus_thread</comments>
       
     </item>
     
