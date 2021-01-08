@@ -7,7 +7,7 @@ tags:
   - fluentassertions
 ---
 
-When using the otherwise superb [NSubstitute](https://nsubstitute.github.io/), there is one thing that bothers me regularly: you cannot match arguments by equivalency.
+When using the otherwise superb [NSubstitute](https://nsubstitute.github.io/), one thing has been bothering me for a long time: you cannot match arguments by equivalency.
 
 To illustrate what I mean, let's use an example. Say you got the following interface
 
