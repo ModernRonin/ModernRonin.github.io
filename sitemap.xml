@@ -2,6 +2,76 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://modernronin.github.io/2020/12/17/Prevent-re-entrancy-on-long-running-async-methods/</loc>
+    
+    <lastmod>2021-01-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modernronin.github.io/2020/09/04/Project-Renamer/</loc>
+    
+    <lastmod>2021-01-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modernronin.github.io/2020/10/08/Quick-Circular-Enumerator/</loc>
+    
+    <lastmod>2021-01-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modernronin.github.io/2020/10/13/Testing-with-Flurl/</loc>
+    
+    <lastmod>2021-01-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modernronin.github.io/2020/09/02/Tuple-syntax-for-multiple-assignments/</loc>
+    
+    <lastmod>2021-01-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modernronin.github.io/2020/09/15/renameproject-v1-0-1/</loc>
+    
+    <lastmod>2021-01-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modernronin.github.io/2020/10/20/renameproject-v2-0/</loc>
+    
+    <lastmod>2021-01-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modernronin.github.io/2020/12/13/renameproject-v2-1-1/</loc>
+    
+    <lastmod>2021-01-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modernronin.github.io/2021/01/08/renameproject-v2-1-2/</loc>
+    
+    <lastmod>2021-01-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://modernronin.github.io/2020/12/03/renameproject-v2-1/</loc>
+    
+    <lastmod>2021-01-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://modernronin.github.io/2020/10/30/About-System-Threading-Channels/</loc>
     
     <lastmod>2021-01-08</lastmod>
@@ -108,76 +178,6 @@
   
   <url>
     <loc>https://modernronin.github.io/2020/11/05/PlantUml/</loc>
-    
-    <lastmod>2021-01-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://modernronin.github.io/2020/12/17/Prevent-re-entrancy-on-long-running-async-methods/</loc>
-    
-    <lastmod>2021-01-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://modernronin.github.io/2020/09/04/Project-Renamer/</loc>
-    
-    <lastmod>2021-01-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://modernronin.github.io/2020/10/08/Quick-Circular-Enumerator/</loc>
-    
-    <lastmod>2021-01-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://modernronin.github.io/2020/10/13/Testing-with-Flurl/</loc>
-    
-    <lastmod>2021-01-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://modernronin.github.io/2020/09/02/Tuple-syntax-for-multiple-assignments/</loc>
-    
-    <lastmod>2021-01-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://modernronin.github.io/2020/09/15/renameproject-v1-0-1/</loc>
-    
-    <lastmod>2021-01-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://modernronin.github.io/2020/10/20/renameproject-v2-0/</loc>
-    
-    <lastmod>2021-01-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://modernronin.github.io/2020/12/13/renameproject-v2-1-1/</loc>
-    
-    <lastmod>2021-01-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://modernronin.github.io/2021/01/08/renameproject-v2-1-2/</loc>
-    
-    <lastmod>2021-01-08</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://modernronin.github.io/2020/12/03/renameproject-v2-1/</loc>
     
     <lastmod>2021-01-08</lastmod>
     
