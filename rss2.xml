@@ -15,8 +15,37 @@
     <atom:link href="https://modernronin.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Software development - techniques, opinions, thoughts</description>
-    <pubDate>Wed, 06 Jan 2021 13:14:21 GMT</pubDate>
+    <pubDate>Fri, 08 Jan 2021 10:21:10 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>renameproject v2.1.2</title>
+      <link>https://modernronin.github.io/2021/01/08/renameproject-v2-1-2/</link>
+      <guid>https://modernronin.github.io/2021/01/08/renameproject-v2-1-2/</guid>
+      <pubDate>Fri, 08 Jan 2021 08:53:35 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;There’s another update out for &lt;code&gt;renameproject&lt;/code&gt;, just a bugfix release. See &lt;a</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/Visual-Studio/">Visual Studio</category>
+      
+      <category domain="https://modernronin.github.io/tags/renameproject/">renameproject</category>
+      
+      <category domain="https://modernronin.github.io/tags/commandline-tools/">commandline tools</category>
+      
+      
+      <comments>https://modernronin.github.io/2021/01/08/renameproject-v2-1-2/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>NSubstitute and equivalency argument matching</title>
@@ -570,34 +599,6 @@
       
       
       <comments>https://modernronin.github.io/2020/09/04/Project-Renamer/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Tuple syntax for multiple assignments</title>
-      <link>https://modernronin.github.io/2020/09/02/Tuple-syntax-for-multiple-assignments/</link>
-      <guid>https://modernronin.github.io/2020/09/02/Tuple-syntax-for-multiple-assignments/</guid>
-      <pubDate>Wed, 02 Sep 2020 21:17:13 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;This is a short one. I just noticed how neat tuple syntax can be for multiple assignments:&lt;/p&gt;
-&lt;figure class=&quot;highlight</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://modernronin.github.io/tags/C-language/">C# language</category>
-      
-      <category domain="https://modernronin.github.io/tags/Tuples/">Tuples</category>
-      
-      
-      <comments>https://modernronin.github.io/2020/09/02/Tuple-syntax-for-multiple-assignments/#disqus_thread</comments>
       
     </item>
     

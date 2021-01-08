@@ -6,7 +6,7 @@
   <link href="https://modernronin.github.io/atom.xml" rel="self"/>
   
   <link href="https://modernronin.github.io/"/>
-  <updated>2021-01-06T13:14:21.820Z</updated>
+  <updated>2021-01-08T10:21:10.602Z</updated>
   <id>https://modernronin.github.io/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>renameproject v2.1.2</title>
+    <link href="https://modernronin.github.io/2021/01/08/renameproject-v2-1-2/"/>
+    <id>https://modernronin.github.io/2021/01/08/renameproject-v2-1-2/</id>
+    <published>2021-01-08T08:53:35.000Z</published>
+    <updated>2021-01-08T10:21:10.602Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;There’s another update out for &lt;code&gt;renameproject&lt;/code&gt;, just a bugfix release. See &lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Visual Studio" scheme="https://modernronin.github.io/tags/Visual-Studio/"/>
+    
+    <category term="renameproject" scheme="https://modernronin.github.io/tags/renameproject/"/>
+    
+    <category term="commandline tools" scheme="https://modernronin.github.io/tags/commandline-tools/"/>
+    
+  </entry>
+  
+  <entry>
     <title>NSubstitute and equivalency argument matching</title>
     <link href="https://modernronin.github.io/2021/01/06/NSubstitute-and-equivalency-argument-matching/"/>
     <id>https://modernronin.github.io/2021/01/06/NSubstitute-and-equivalency-argument-matching/</id>
     <published>2021-01-06T12:15:06.000Z</published>
-    <updated>2021-01-06T13:14:21.820Z</updated>
+    <updated>2021-01-08T10:21:10.602Z</updated>
     
     
       
@@ -48,7 +75,7 @@
     <link href="https://modernronin.github.io/2020/12/17/Prevent-re-entrancy-on-long-running-async-methods/"/>
     <id>https://modernronin.github.io/2020/12/17/Prevent-re-entrancy-on-long-running-async-methods/</id>
     <published>2020-12-17T19:57:20.000Z</published>
-    <updated>2021-01-06T13:14:21.820Z</updated>
+    <updated>2021-01-08T10:21:10.602Z</updated>
     
     
       
@@ -77,7 +104,7 @@
     <link href="https://modernronin.github.io/2020/12/13/Integrating-depencency-injection-into-a-legacy-code-base/"/>
     <id>https://modernronin.github.io/2020/12/13/Integrating-depencency-injection-into-a-legacy-code-base/</id>
     <published>2020-12-13T18:55:11.000Z</published>
-    <updated>2021-01-06T13:14:21.816Z</updated>
+    <updated>2021-01-08T10:21:10.602Z</updated>
     
     
       
@@ -110,7 +137,7 @@
     <link href="https://modernronin.github.io/2020/12/13/renameproject-v2-1-1/"/>
     <id>https://modernronin.github.io/2020/12/13/renameproject-v2-1-1/</id>
     <published>2020-12-13T14:15:15.000Z</published>
-    <updated>2021-01-06T13:14:21.820Z</updated>
+    <updated>2021-01-08T10:21:10.602Z</updated>
     
     
       
@@ -137,7 +164,7 @@
     <link href="https://modernronin.github.io/2020/12/03/renameproject-v2-1/"/>
     <id>https://modernronin.github.io/2020/12/03/renameproject-v2-1/</id>
     <published>2020-12-03T22:35:23.000Z</published>
-    <updated>2021-01-06T13:14:21.820Z</updated>
+    <updated>2021-01-08T10:21:10.602Z</updated>
     
     
       
@@ -164,7 +191,7 @@
     <link href="https://modernronin.github.io/2020/11/24/Extract-a-parameter-object-with-R/"/>
     <id>https://modernronin.github.io/2020/11/24/Extract-a-parameter-object-with-R/</id>
     <published>2020-11-24T21:27:00.000Z</published>
-    <updated>2021-01-06T13:14:21.816Z</updated>
+    <updated>2021-01-08T10:21:10.602Z</updated>
     
     
       
@@ -189,7 +216,7 @@
     <link href="https://modernronin.github.io/2020/11/16/Duplicate-a-code-window-in-VS/"/>
     <id>https://modernronin.github.io/2020/11/16/Duplicate-a-code-window-in-VS/</id>
     <published>2020-11-16T21:23:06.000Z</published>
-    <updated>2021-01-06T13:14:21.816Z</updated>
+    <updated>2021-01-08T10:21:10.602Z</updated>
     
     
       
@@ -213,7 +240,7 @@
     <link href="https://modernronin.github.io/2020/11/05/PlantUml/"/>
     <id>https://modernronin.github.io/2020/11/05/PlantUml/</id>
     <published>2020-11-05T22:18:03.000Z</published>
-    <updated>2021-01-06T13:14:21.820Z</updated>
+    <updated>2021-01-08T10:21:10.602Z</updated>
     
     
       
@@ -239,7 +266,7 @@
     <link href="https://modernronin.github.io/2020/10/30/About-System-Threading-Channels/"/>
     <id>https://modernronin.github.io/2020/10/30/About-System-Threading-Channels/</id>
     <published>2020-10-30T21:09:01.000Z</published>
-    <updated>2021-01-06T13:14:21.816Z</updated>
+    <updated>2021-01-08T10:21:10.602Z</updated>
     
     
       
@@ -267,7 +294,7 @@
     <link href="https://modernronin.github.io/2020/10/20/renameproject-v2-0/"/>
     <id>https://modernronin.github.io/2020/10/20/renameproject-v2-0/</id>
     <published>2020-10-20T23:02:01.000Z</published>
-    <updated>2021-01-06T13:14:21.820Z</updated>
+    <updated>2021-01-08T10:21:10.602Z</updated>
     
     
       
@@ -294,7 +321,7 @@
     <link href="https://modernronin.github.io/2020/10/13/Testing-with-Flurl/"/>
     <id>https://modernronin.github.io/2020/10/13/Testing-with-Flurl/</id>
     <published>2020-10-13T23:09:04.000Z</published>
-    <updated>2021-01-06T13:14:21.820Z</updated>
+    <updated>2021-01-08T10:21:10.602Z</updated>
     
     
       
@@ -321,7 +348,7 @@
     <link href="https://modernronin.github.io/2020/10/12/FluentAssertions-How-to-assert-collection-s-elements-with-equivalence-AND-order/"/>
     <id>https://modernronin.github.io/2020/10/12/FluentAssertions-How-to-assert-collection-s-elements-with-equivalence-AND-order/</id>
     <published>2020-10-12T22:30:08.000Z</published>
-    <updated>2021-01-06T13:14:21.816Z</updated>
+    <updated>2021-01-08T10:21:10.602Z</updated>
     
     
       
@@ -346,7 +373,7 @@
     <link href="https://modernronin.github.io/2020/10/08/Quick-Circular-Enumerator/"/>
     <id>https://modernronin.github.io/2020/10/08/Quick-Circular-Enumerator/</id>
     <published>2020-10-08T22:20:08.000Z</published>
-    <updated>2021-01-06T13:14:21.820Z</updated>
+    <updated>2021-01-08T10:21:10.602Z</updated>
     
     
       
@@ -370,7 +397,7 @@
     <link href="https://modernronin.github.io/2020/09/28/HttpStatusCode-in-netstandard-2-0/"/>
     <id>https://modernronin.github.io/2020/09/28/HttpStatusCode-in-netstandard-2-0/</id>
     <published>2020-09-28T22:04:01.000Z</published>
-    <updated>2021-01-06T13:14:21.816Z</updated>
+    <updated>2021-01-08T10:21:10.602Z</updated>
     
     
       
@@ -403,7 +430,7 @@
     <link href="https://modernronin.github.io/2020/09/17/Exclude-code-regions-from-ReSharpers-format/"/>
     <id>https://modernronin.github.io/2020/09/17/Exclude-code-regions-from-ReSharpers-format/</id>
     <published>2020-09-17T22:55:34.000Z</published>
-    <updated>2021-01-06T13:14:21.816Z</updated>
+    <updated>2021-01-08T10:21:10.602Z</updated>
     
     
       
@@ -429,7 +456,7 @@
     <link href="https://modernronin.github.io/2020/09/15/renameproject-v1-0-1/"/>
     <id>https://modernronin.github.io/2020/09/15/renameproject-v1-0-1/</id>
     <published>2020-09-15T22:27:09.000Z</published>
-    <updated>2021-01-06T13:14:21.820Z</updated>
+    <updated>2021-01-08T10:21:10.602Z</updated>
     
     
       
@@ -456,7 +483,7 @@
     <link href="https://modernronin.github.io/2020/09/06/Good-advise-for-younger-devs/"/>
     <id>https://modernronin.github.io/2020/09/06/Good-advise-for-younger-devs/</id>
     <published>2020-09-06T22:19:49.000Z</published>
-    <updated>2021-01-06T13:14:21.816Z</updated>
+    <updated>2021-01-08T10:21:10.602Z</updated>
     
     
       
@@ -481,7 +508,7 @@
     <link href="https://modernronin.github.io/2020/09/05/Interesting-article-about-Microservices/"/>
     <id>https://modernronin.github.io/2020/09/05/Interesting-article-about-Microservices/</id>
     <published>2020-09-05T22:12:43.000Z</published>
-    <updated>2021-01-06T13:14:21.816Z</updated>
+    <updated>2021-01-08T10:21:10.602Z</updated>
     
     
       
@@ -510,7 +537,7 @@
     <link href="https://modernronin.github.io/2020/09/04/Project-Renamer/"/>
     <id>https://modernronin.github.io/2020/09/04/Project-Renamer/</id>
     <published>2020-09-04T22:04:13.000Z</published>
-    <updated>2021-01-06T13:14:21.820Z</updated>
+    <updated>2021-01-08T10:21:10.602Z</updated>
     
     
       
@@ -530,32 +557,6 @@
     <category term="renameproject" scheme="https://modernronin.github.io/tags/renameproject/"/>
     
     <category term="commandline tools" scheme="https://modernronin.github.io/tags/commandline-tools/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Tuple syntax for multiple assignments</title>
-    <link href="https://modernronin.github.io/2020/09/02/Tuple-syntax-for-multiple-assignments/"/>
-    <id>https://modernronin.github.io/2020/09/02/Tuple-syntax-for-multiple-assignments/</id>
-    <published>2020-09-02T21:17:13.000Z</published>
-    <updated>2021-01-06T13:14:21.820Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;This is a short one. I just noticed how neat tuple syntax can be for multiple assignments:&lt;/p&gt;
-&lt;figure class=&quot;highlight</summary>
-        
-      
-    
-    
-    
-    
-    <category term="C# language" scheme="https://modernronin.github.io/tags/C-language/"/>
-    
-    <category term="Tuples" scheme="https://modernronin.github.io/tags/Tuples/"/>
     
   </entry>
   
