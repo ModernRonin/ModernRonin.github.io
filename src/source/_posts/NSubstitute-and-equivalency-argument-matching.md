@@ -4,7 +4,8 @@ date: 2021-01-06 12:15:06
 tags:
   - nsubstitute
   - nsubstitute.equivalency
-  - fluentassertions
+  - FluentAssertions
+  - TDD
 ---
 
 When using the otherwise superb [NSubstitute](https://nsubstitute.github.io/), one thing has been bothering me for a long time: you cannot match arguments by equivalency.
