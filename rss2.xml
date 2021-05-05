@@ -15,8 +15,39 @@
     <atom:link href="https://modernronin.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Software development - techniques, opinions, thoughts</description>
-    <pubDate>Mon, 03 May 2021 17:57:27 GMT</pubDate>
+    <pubDate>Wed, 05 May 2021 13:19:14 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>NSubstituteEquivalency 1.1.0</title>
+      <link>https://modernronin.github.io/2021/05/05/NSubstituteEquivalency-1-1-0/</link>
+      <guid>https://modernronin.github.io/2021/05/05/NSubstituteEquivalency-1-1-0/</guid>
+      <pubDate>Wed, 05 May 2021 14:16:06 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;There’s an update out for &lt;a href=&quot;https://github.com/ModernRonin/NSubstitute.Equivalency&quot;&gt;NSubstituteEquivalency&lt;/a&gt; adding support for</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/FluentAssertions/">FluentAssertions</category>
+      
+      <category domain="https://modernronin.github.io/tags/TDD/">TDD</category>
+      
+      <category domain="https://modernronin.github.io/tags/nsubstitute/">nsubstitute</category>
+      
+      <category domain="https://modernronin.github.io/tags/nsubstitute-equivalency/">nsubstitute.equivalency</category>
+      
+      
+      <comments>https://modernronin.github.io/2021/05/05/NSubstituteEquivalency-1-1-0/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>renameproject v2.1.4</title>
@@ -576,34 +607,6 @@
       
       
       <comments>https://modernronin.github.io/2020/09/28/HttpStatusCode-in-netstandard-2-0/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Exclude code regions from ReSharpers&#39; format</title>
-      <link>https://modernronin.github.io/2020/09/17/Exclude-code-regions-from-ReSharpers-format/</link>
-      <guid>https://modernronin.github.io/2020/09/17/Exclude-code-regions-from-ReSharpers-format/</guid>
-      <pubDate>Thu, 17 Sep 2020 22:55:34 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;A dev-friend was unhappy about not being able to exclude certain code passages from R#’s cleanup/formatting feature.&lt;/p&gt;
-&lt;p&gt;Actually,</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://modernronin.github.io/tags/ReSharper/">ReSharper</category>
-      
-      <category domain="https://modernronin.github.io/tags/code-format/">code format</category>
-      
-      
-      <comments>https://modernronin.github.io/2020/09/17/Exclude-code-regions-from-ReSharpers-format/#disqus_thread</comments>
       
     </item>
     
