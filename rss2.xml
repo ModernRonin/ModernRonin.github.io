@@ -15,8 +15,37 @@
     <atom:link href="https://modernronin.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Software development - techniques, opinions, thoughts</description>
-    <pubDate>Wed, 05 May 2021 13:19:14 GMT</pubDate>
+    <pubDate>Sun, 13 Jun 2021 13:04:06 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>MessagePack without attributes</title>
+      <link>https://modernronin.github.io/2021/06/13/MessagePack-without-attributes/</link>
+      <guid>https://modernronin.github.io/2021/06/13/MessagePack-without-attributes/</guid>
+      <pubDate>Sun, 13 Jun 2021 12:31:59 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;A while ago I was looking into &lt;a href=&quot;https://github.com/neuecc/MessagePack-CSharp&quot;&gt;MessagePack&lt;/a&gt; to use for binary serialization.</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/messagepack/">messagepack</category>
+      
+      <category domain="https://modernronin.github.io/tags/no-attributes/">no attributes</category>
+      
+      <category domain="https://modernronin.github.io/tags/binary-serialization/">binary serialization</category>
+      
+      
+      <comments>https://modernronin.github.io/2021/06/13/MessagePack-without-attributes/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>NSubstituteEquivalency 1.1.0</title>
@@ -572,41 +601,6 @@
       
       
       <comments>https://modernronin.github.io/2020/10/08/Quick-Circular-Enumerator/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>HttpStatusCode in netstandard 2.0</title>
-      <link>https://modernronin.github.io/2020/09/28/HttpStatusCode-in-netstandard-2-0/</link>
-      <guid>https://modernronin.github.io/2020/09/28/HttpStatusCode-in-netstandard-2-0/</guid>
-      <pubDate>Mon, 28 Sep 2020 22:04:01 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;Today I stumbled across a strange omission in netstandard2.0: the &lt;code&gt;HttpStatusCode&lt;/code&gt; enum is incomplete (as opposed to, say,</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://modernronin.github.io/tags/BCL/">BCL</category>
-      
-      <category domain="https://modernronin.github.io/tags/netstandard2-0/">netstandard2.0</category>
-      
-      <category domain="https://modernronin.github.io/tags/gotchas/">gotchas</category>
-      
-      <category domain="https://modernronin.github.io/tags/C-language/">C# language</category>
-      
-      <category domain="https://modernronin.github.io/tags/F-language/">F# language</category>
-      
-      <category domain="https://modernronin.github.io/tags/language-design/">language design</category>
-      
-      
-      <comments>https://modernronin.github.io/2020/09/28/HttpStatusCode-in-netstandard-2-0/#disqus_thread</comments>
       
     </item>
     
