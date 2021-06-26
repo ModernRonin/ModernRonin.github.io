@@ -15,8 +15,38 @@
     <atom:link href="https://modernronin.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Software development - techniques, opinions, thoughts</description>
-    <pubDate>Sun, 13 Jun 2021 13:04:06 GMT</pubDate>
+    <pubDate>Sat, 26 Jun 2021 09:33:36 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>renameproject v2.1.5</title>
+      <link>https://modernronin.github.io/2021/06/26/renameproject-v2-1-5/</link>
+      <guid>https://modernronin.github.io/2021/06/26/renameproject-v2-1-5/</guid>
+      <pubDate>Sat, 26 Jun 2021 10:31:50 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;There’s another update out for &lt;code&gt;renameproject&lt;/code&gt;, a bugfix release.&lt;/p&gt;
+&lt;p&gt;This one enables it to run on linux and other *nix</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/Visual-Studio/">Visual Studio</category>
+      
+      <category domain="https://modernronin.github.io/tags/renameproject/">renameproject</category>
+      
+      <category domain="https://modernronin.github.io/tags/commandline-tools/">commandline tools</category>
+      
+      
+      <comments>https://modernronin.github.io/2021/06/26/renameproject-v2-1-5/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>MessagePack without attributes</title>
@@ -575,32 +605,6 @@
       
       
       <comments>https://modernronin.github.io/2020/10/12/FluentAssertions-How-to-assert-collection-s-elements-with-equivalence-AND-order/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Quick Circular Buffer</title>
-      <link>https://modernronin.github.io/2020/10/08/Quick-Circular-Enumerator/</link>
-      <guid>https://modernronin.github.io/2020/10/08/Quick-Circular-Enumerator/</guid>
-      <pubDate>Thu, 08 Oct 2020 22:20:08 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;Recently, I found myself for the first time in my 25+ year career needing infinite iteration over a finite set of elements. &lt;/p&gt;
-&lt;p&gt;The</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://modernronin.github.io/tags/data-structures/">data structures</category>
-      
-      
-      <comments>https://modernronin.github.io/2020/10/08/Quick-Circular-Enumerator/#disqus_thread</comments>
       
     </item>
     
