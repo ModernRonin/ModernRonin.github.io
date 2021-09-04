@@ -15,8 +15,39 @@
     <atom:link href="https://modernronin.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Software development - techniques, opinions, thoughts</description>
-    <pubDate>Sat, 26 Jun 2021 09:33:36 GMT</pubDate>
+    <pubDate>Sat, 04 Sep 2021 12:53:54 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>NSubstituteEquivalency 2.0.0</title>
+      <link>https://modernronin.github.io/2021/09/04/NSubstituteEquivalency-2-0-0/</link>
+      <guid>https://modernronin.github.io/2021/09/04/NSubstituteEquivalency-2-0-0/</guid>
+      <pubDate>Sat, 04 Sep 2021 13:46:13 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;There’s an update out for &lt;a href=&quot;https://github.com/ModernRonin/NSubstitute.Equivalency&quot;&gt;NSubstituteEquivalency&lt;/a&gt; - this upgrades to</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/FluentAssertions/">FluentAssertions</category>
+      
+      <category domain="https://modernronin.github.io/tags/TDD/">TDD</category>
+      
+      <category domain="https://modernronin.github.io/tags/nsubstitute/">nsubstitute</category>
+      
+      <category domain="https://modernronin.github.io/tags/nsubstitute-equivalency/">nsubstitute.equivalency</category>
+      
+      
+      <comments>https://modernronin.github.io/2021/09/04/NSubstituteEquivalency-2-0-0/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>renameproject v2.1.5</title>
@@ -578,33 +609,6 @@
       
       
       <comments>https://modernronin.github.io/2020/10/13/Testing-with-Flurl/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>FluentAssertions: How to assert collection&#39;s elements with equivalence AND order</title>
-      <link>https://modernronin.github.io/2020/10/12/FluentAssertions-How-to-assert-collection-s-elements-with-equivalence-AND-order/</link>
-      <guid>https://modernronin.github.io/2020/10/12/FluentAssertions-How-to-assert-collection-s-elements-with-equivalence-AND-order/</guid>
-      <pubDate>Mon, 12 Oct 2020 22:30:08 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;I’ve been using the marvellous &lt;a href=&quot;https://fluentassertions.com/&quot;&gt;FluentAssertions&lt;/a&gt; library for many years, yet I still discover</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://modernronin.github.io/tags/FluentAssertions/">FluentAssertions</category>
-      
-      <category domain="https://modernronin.github.io/tags/TDD/">TDD</category>
-      
-      
-      <comments>https://modernronin.github.io/2020/10/12/FluentAssertions-How-to-assert-collection-s-elements-with-equivalence-AND-order/#disqus_thread</comments>
       
     </item>
     
