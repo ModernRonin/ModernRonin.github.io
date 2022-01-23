@@ -15,8 +15,37 @@
     <atom:link href="https://modernronin.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Software development - techniques, opinions, thoughts</description>
-    <pubDate>Sun, 23 Jan 2022 14:10:34 GMT</pubDate>
+    <pubDate>Sun, 23 Jan 2022 14:27:14 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Blazor.Mvu</title>
+      <link>https://modernronin.github.io/2022/01/23/Blazor-Mvu/</link>
+      <guid>https://modernronin.github.io/2022/01/23/Blazor-Mvu/</guid>
+      <pubDate>Sun, 23 Jan 2022 14:01:16 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;Over my Christmas vacation I’ve written a small framework enabling MVU on Blazor with C#, &lt;code&gt;Blazor.Mvu&lt;/code&gt;. Now this weekend I’ve</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/blazor/">blazor</category>
+      
+      <category domain="https://modernronin.github.io/tags/mvu/">mvu</category>
+      
+      <category domain="https://modernronin.github.io/tags/collaborators-wanted/">collaborators-wanted</category>
+      
+      
+      <comments>https://modernronin.github.io/2022/01/23/Blazor-Mvu/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>NSubstituteEquivalency 2.0.0</title>
@@ -580,35 +609,6 @@
       
       
       <comments>https://modernronin.github.io/2020/10/20/renameproject-v2-0/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>Testing with Flurl</title>
-      <link>https://modernronin.github.io/2020/10/13/Testing-with-Flurl/</link>
-      <guid>https://modernronin.github.io/2020/10/13/Testing-with-Flurl/</guid>
-      <pubDate>Tue, 13 Oct 2020 23:09:04 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;When developing against REST APIs without dedicated client libraries, I very much like to use &lt;a</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://modernronin.github.io/tags/TDD/">TDD</category>
-      
-      <category domain="https://modernronin.github.io/tags/REST-APIs/">REST APIs</category>
-      
-      <category domain="https://modernronin.github.io/tags/Flurl/">Flurl</category>
-      
-      
-      <comments>https://modernronin.github.io/2020/10/13/Testing-with-Flurl/#disqus_thread</comments>
       
     </item>
     
