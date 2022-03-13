@@ -15,8 +15,38 @@
     <atom:link href="https://modernronin.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Software development - techniques, opinions, thoughts</description>
-    <pubDate>Sun, 23 Jan 2022 14:27:14 GMT</pubDate>
+    <pubDate>Sun, 13 Mar 2022 09:51:44 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>FluentArgumentParser Update</title>
+      <link>https://modernronin.github.io/2022/03/13/FluentArgumentParser-Update/</link>
+      <guid>https://modernronin.github.io/2022/03/13/FluentArgumentParser-Update/</guid>
+      <pubDate>Sun, 13 Mar 2022 09:43:31 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;There’s a major update out for &lt;a href=&quot;https://github.com/ModernRonin/FluentArgumentParser&quot;&gt;FluentArgumentParser&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Several</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/command-line/">command line</category>
+      
+      <category domain="https://modernronin.github.io/tags/command-line-arguments/">command line arguments</category>
+      
+      <category domain="https://modernronin.github.io/tags/fluent-argument-parser/">fluent argument parser</category>
+      
+      
+      <comments>https://modernronin.github.io/2022/03/13/FluentArgumentParser-Update/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Blazor.Mvu</title>
@@ -580,35 +610,6 @@
       
       
       <comments>https://modernronin.github.io/2020/10/30/About-System-Threading-Channels/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>renameproject v2.0</title>
-      <link>https://modernronin.github.io/2020/10/20/renameproject-v2-0/</link>
-      <guid>https://modernronin.github.io/2020/10/20/renameproject-v2-0/</guid>
-      <pubDate>Tue, 20 Oct 2020 23:02:01 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;There’s an update out for &lt;code&gt;renameproject&lt;/code&gt;. This is a bit of a bigger change in how you control its behavior. See &lt;a</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://modernronin.github.io/tags/Visual-Studio/">Visual Studio</category>
-      
-      <category domain="https://modernronin.github.io/tags/renameproject/">renameproject</category>
-      
-      <category domain="https://modernronin.github.io/tags/commandline-tools/">commandline tools</category>
-      
-      
-      <comments>https://modernronin.github.io/2020/10/20/renameproject-v2-0/#disqus_thread</comments>
       
     </item>
     
