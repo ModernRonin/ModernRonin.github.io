@@ -15,8 +15,39 @@
     <atom:link href="https://modernronin.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>Software development - techniques, opinions, thoughts</description>
-    <pubDate>Sun, 13 Mar 2022 09:51:44 GMT</pubDate>
+    <pubDate>Sat, 24 Sep 2022 15:12:26 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>renameproject v2.2.0</title>
+      <link>https://modernronin.github.io/2022/09/24/renameproject-v2-2-0/</link>
+      <guid>https://modernronin.github.io/2022/09/24/renameproject-v2-2-0/</guid>
+      <pubDate>Sat, 24 Sep 2022 16:10:46 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;hr&gt;
+&lt;p&gt;There’s another update out for &lt;code&gt;renameproject&lt;/code&gt;. &lt;/p&gt;
+&lt;p&gt;This one adds support for VB projects and fixes a potential</description>
+          
+        
+      
+      
+      
+      
+      
+      <category domain="https://modernronin.github.io/tags/Visual-Studio/">Visual Studio</category>
+      
+      <category domain="https://modernronin.github.io/tags/renameproject/">renameproject</category>
+      
+      <category domain="https://modernronin.github.io/tags/commandline-tools/">commandline tools</category>
+      
+      
+      <comments>https://modernronin.github.io/2022/09/24/renameproject-v2-2-0/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>FluentArgumentParser Update</title>
@@ -580,36 +611,6 @@
       
       
       <comments>https://modernronin.github.io/2020/11/05/PlantUml/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>About System.Threading.Channels</title>
-      <link>https://modernronin.github.io/2020/10/30/About-System-Threading-Channels/</link>
-      <guid>https://modernronin.github.io/2020/10/30/About-System-Threading-Channels/</guid>
-      <pubDate>Fri, 30 Oct 2020 21:09:01 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;p&gt;I just stumbled across an article about a new addition to the BCL, the &lt;code&gt;System.Threading.Channels&lt;/code&gt; namespace. &lt;/p&gt;
-&lt;p&gt;The new</description>
-          
-        
-      
-      
-      
-      
-      
-      <category domain="https://modernronin.github.io/tags/BCL/">BCL</category>
-      
-      <category domain="https://modernronin.github.io/tags/Threading/">Threading</category>
-      
-      <category domain="https://modernronin.github.io/tags/interesting-articles/">interesting articles</category>
-      
-      
-      <comments>https://modernronin.github.io/2020/10/30/About-System-Threading-Channels/#disqus_thread</comments>
       
     </item>
     
